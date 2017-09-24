@@ -1,1 +1,0 @@
-agregar archivo sell.csv en este directorio
