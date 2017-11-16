@@ -1,0 +1,1785 @@
+,created_on,property_type,place_with_parent_names,price_aprox_usd,surface_in_m2,floor,rooms
+61906,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,250000.0,385.0,,
+61907,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,150000.0,200.0,,4.0
+61909,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,135000.0,93.0,4.0,3.0
+61910,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,72000.0,76.0,5.0,1.0
+61911,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Benavidez|,190000.0,150.0,,4.0
+61912,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Beccar|,120000.0,50.0,2.0,2.0
+61913,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,135000.0,106.0,,
+61914,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,158500.0,168.0,,
+61916,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,290000.0,108.0,7.0,3.0
+61917,2014-12-01,store,|Argentina|Buenos Aires Costa Atlántica|San Bernardo|,42000.0,35.0,,
+61918,2014-12-01,apartment,|Argentina|Capital Federal|Congreso|,72000.0,37.0,3.0,2.0
+61919,2014-12-01,apartment,|Argentina|Capital Federal|Tribunales|,155000.0,113.0,9.0,3.0
+61920,2014-12-01,apartment,|Argentina|Capital Federal|Parque Chacabuco|,280000.0,254.0,,7.0
+61921,2014-12-01,store,|Argentina|Buenos Aires Costa Atlántica|Mar de Ajó|,111111.0,195.0,,
+61922,2014-12-01,store,|Argentina|Buenos Aires Costa Atlántica|San Bernardo|,111111.0,780.0,,
+61923,2014-12-01,apartment,|Argentina|Capital Federal|Abasto|,79000.0,46.0,4.0,2.0
+61924,2014-12-01,apartment,|Argentina|Capital Federal|Balvanera|,79000.0,46.0,4.0,2.0
+61925,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,131760.0,40.0,6.0,1.0
+61926,2014-12-01,store,|Argentina|Capital Federal|Centro / Microcentro|,17557.82,120.0,,
+61927,2014-12-01,apartment,|Argentina|Capital Federal|Villa Crespo|,95000.0,62.0,,2.0
+61928,2014-12-01,apartment,|Argentina|Capital Federal|Almagro|,69000.0,33.0,4.0,2.0
+61929,2014-12-01,apartment,|Argentina|Capital Federal|Parque Centenario|,95000.0,62.0,,2.0
+61930,2014-12-01,house,|Argentina|Capital Federal|Floresta|,80000.0,74.0,,2.0
+61931,2014-12-01,house,|Argentina|Capital Federal|Paternal|,210000.0,371.0,6.0,6.0
+61932,2014-12-01,apartment,|Argentina|Capital Federal|Almagro|,95000.0,62.0,,2.0
+61933,2014-12-01,house,|Argentina|Capital Federal|Paternal|,270000.0,230.0,,4.0
+61934,2014-12-01,apartment,|Argentina|Capital Federal|Once|,79000.0,46.0,4.0,2.0
+61935,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,69000.0,38.0,3.0,1.0
+61936,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,330000.0,250.0,,
+61942,2014-12-01,store,|Argentina|Capital Federal|Pompeya|,350000.0,175.0,,
+61943,2014-12-01,apartment,|Argentina|Capital Federal|Constitución|,80000.0,55.0,11.0,3.0
+61944,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,210000.0,90.0,7.0,3.0
+61945,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,130000.0,750.0,,4.0
+61946,2014-12-01,store,|Argentina|Capital Federal|Barrio Norte|,140000.0,48.0,,
+61947,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,73742.85,39.0,,1.0
+61948,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,150000.0,250.0,,5.0
+61949,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,257000.0,740.0,,
+61950,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,200000.0,94.0,,
+61951,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|La Pilarica|,270000.0,850.0,,
+61952,2014-12-01,house,|Argentina|Misiones|Posadas|,46820.86,258.0,,
+61953,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Morón|,120000.0,258.0,,3.0
+61955,2014-12-01,store,|Argentina|Capital Federal|Palermo|,360000.0,180.0,,
+61956,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,112018.91,53.0,5.0,2.0
+61957,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,75000.0,55.0,,
+61958,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,92000.0,60.0,5.0,
+61959,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,135000.0,750.0,,4.0
+61960,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,85000.0,45.0,1.0,2.0
+61961,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,110000.0,180.0,,3.0
+61962,2014-12-01,store,|Argentina|Capital Federal|Centro / Microcentro|,70000.0,30.0,,
+61963,2014-12-01,store,|Argentina|Capital Federal|Barrio Norte|,140000.0,35.0,,
+61965,2014-12-01,apartment,|Argentina|Misiones|Puerto Iguazú|,103275.93,25.0,,
+61966,2014-12-01,apartment,|Argentina|Misiones|Puerto Iguazú|,96503.76,25.0,,
+61967,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,175000.0,165.0,,4.0
+61968,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,68000.0,200.0,,3.0
+61969,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Oeste|,120000.0,48.0,2.0,2.0
+61971,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Oeste|,230000.0,330.0,,4.0
+61974,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,175600.0,206.0,,
+61975,2014-12-01,apartment,|Argentina|Misiones|Puerto Iguazú|,99889.85,25.0,,
+61976,2014-12-01,apartment,|Argentina|Misiones|Puerto Iguazú|,99889.85,25.0,,
+61977,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Valentín Alsina|,380000.0,600.0,,5.0
+61979,2014-12-01,store,|Argentina|Capital Federal|Recoleta|,1100000.0,445.0,,
+61984,2014-12-01,apartment,|Argentina|Capital Federal|Saavedra|,110000.0,59.0,6.0,3.0
+61985,2014-12-01,apartment,|Argentina|Capital Federal|Saavedra|,105000.0,71.0,,3.0
+61986,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,115000.0,160.0,,
+61987,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,580000.0,380.0,,
+61988,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,181900.0,202.0,,
+61989,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,490000.0,370.0,,
+61992,2014-12-01,apartment,|Argentina|Capital Federal|Villa Urquiza|,110000.0,46.0,6.0,2.0
+61993,2014-12-01,apartment,|Argentina|Capital Federal|San Nicolás|,138000.0,82.0,2.0,3.0
+61994,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,150000.0,47.0,13.0,2.0
+61995,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,680000.0,380.0,,
+61996,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,275000.0,220.0,,
+61997,2014-12-01,apartment,|Argentina|Misiones|Puerto Iguazú|,96503.76,25.0,,
+62000,2014-12-01,apartment,|Argentina|Misiones|Posadas|,553010.81,290.0,19.0,
+62002,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,550000.0,320.0,,
+62003,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,162500.0,158.0,,
+62006,2014-12-01,store,|Argentina|Capital Federal|Puerto Madero|,900000.0,215.0,,
+62007,2014-12-01,store,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,340000.0,169.0,,
+62008,2014-12-01,apartment,|Argentina|Capital Federal|Barrio Norte|,680000.0,256.0,6.0,5.0
+62009,2014-12-01,house,|Argentina|Misiones|Posadas|,76083.9,90.0,,
+62011,2014-12-01,store,|Argentina|Buenos Aires Costa Atlántica|San Bernardo|,80000.0,50.0,,
+62016,2014-12-01,store,|Argentina|Capital Federal|Recoleta|,750000.0,164.0,,
+62017,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|,195000.0,85.0,4.0,3.0
+62018,2014-12-01,store,|Argentina|Capital Federal|Barrio Norte|,145000.0,30.0,,
+62019,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,300000.0,210.0,,
+62020,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,730000.0,480.0,,
+62021,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,130000.0,70.0,3.0,3.0
+62022,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,270000.0,100.0,,1.0
+62024,2014-12-01,house,|Argentina|Buenos Aires Costa Atlántica|Santa Teresita|,70000.0,72.0,,
+62025,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Oeste|,350000.0,917.0,,2.0
+62026,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,310000.0,98.0,2.0,3.0
+62030,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,73353.07,57.0,1.0,2.0
+62031,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,96500.0,42.0,9.0,2.0
+62032,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,81000.0,37.0,8.0,1.0
+62033,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,95000.0,42.0,8.0,2.0
+62034,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,85000.0,42.0,2.0,2.0
+62035,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,93500.0,42.0,7.0,2.0
+62036,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,195136.0,99.0,13.0,2.0
+62039,2014-12-01,apartment,|Argentina|Capital Federal|Mataderos|,140000.0,76.0,1.0,3.0
+62040,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,133655.0,49.0,13.0,2.0
+62041,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,90700.0,36.0,12.0,1.0
+62042,2014-12-01,apartment,|Argentina|Capital Federal|Parque Chacabuco|,135000.0,126.0,,3.0
+62044,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|,150000.0,80.0,,
+62051,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,83000.0,37.0,9.0,1.0
+62052,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,152167.8,104.0,10.0,
+62053,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,96153.66,66.0,7.0,2.0
+62054,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|Haras Santa Maria|,220000.0,710.0,,
+62055,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,93500.0,42.0,7.0,2.0
+62057,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,235000.0,177.0,,
+62063,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,149000.0,56.0,1.0,2.0
+62064,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|Palermo Chico|,390000.0,116.0,5.0,4.0
+62065,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,102116.3,73.0,4.0,2.0
+62066,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,153216.59,109.0,1.0,
+62067,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,210000.0,194.0,,
+62068,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,69271.46,54.0,5.0,2.0
+62069,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,74228.62,58.0,4.0,2.0
+62074,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,69013.95,54.0,5.0,2.0
+62075,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,270000.0,240.0,,
+62076,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,220000.0,190.0,,
+62077,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,66826.0,24.0,12.0,1.0
+62078,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,175000.0,130.0,,
+62079,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,195136.0,99.0,13.0,2.0
+62081,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,152167.8,104.0,1.0,
+62083,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,60000.0,40.0,4.0,
+62084,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,89000.0,60.0,6.0,2.0
+62085,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,104391.79,74.0,1.0,2.0
+62086,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,91595.65,65.0,1.0,2.0
+62088,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,73958.23,57.0,1.0,2.0
+62089,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,153216.59,109.0,1.0,
+62090,2014-12-01,house,|Argentina|Tucumán|San Miguel de Tucumán|,327746.04,360.0,,3.0
+62091,2014-12-01,store,|Argentina|Tucumán|San Miguel de Tucumán|,175578.23,160.0,,
+62092,2014-12-01,apartment,|Argentina|Capital Federal|Retiro|,1000000.0,326.0,8.0,6.0
+62093,2014-12-01,apartment,|Argentina|Capital Federal|Villa Luro|,68000.0,35.0,5.0,2.0
+62094,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,64231.0,24.0,10.0,1.0
+62095,2014-12-01,apartment,|Argentina|Capital Federal|Flores|,53000.0,30.0,3.0,2.0
+62099,2014-12-01,apartment,|Argentina|Capital Federal|Mataderos|,385000.0,190.0,3.0,4.0
+62100,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,129000.0,52.0,12.0,2.0
+62101,2014-12-01,apartment,|Argentina|Capital Federal|Retiro|,1250000.0,326.0,8.0,6.0
+62102,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,103000.0,40.0,5.0,1.0
+62103,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,89500.0,35.0,11.0,1.0
+62104,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,240000.0,240.0,,3.0
+62105,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,84500.0,42.0,1.0,2.0
+62106,2014-12-01,apartment,|Argentina|Capital Federal|Boedo|,139000.0,59.0,1.0,
+62107,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|Palermo Soho|,270000.0,70.0,7.0,
+62108,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,193136.06,90.0,6.0,
+62109,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|Palermo Soho|,510000.0,115.0,14.0,
+62110,2014-12-01,house,|Argentina|Buenos Aires Interior|Mercedes|Mercedes|,270000.0,960.0,,
+62111,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|,85000.0,32.0,1.0,
+62112,2014-12-01,apartment,|Argentina|Capital Federal|Recoleta|,230000.0,105.0,7.0,4.0
+62113,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,144114.61,103.0,5.0,
+62114,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,94432.99,67.0,5.0,2.0
+62116,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|,130000.0,64.0,,2.0
+62117,2014-12-01,apartment,|Argentina|Capital Federal|Once|,140000.0,88.0,,4.0
+62118,2014-12-01,apartment,|Argentina|Capital Federal|Congreso|,108000.0,77.0,2.0,
+62119,2014-12-01,apartment,|Argentina|Capital Federal|Villa Urquiza|,240000.0,112.0,2.0,
+62120,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,90500.0,35.0,12.0,1.0
+62121,2014-12-01,apartment,|Argentina|Capital Federal|Villa Crespo|,96000.0,61.0,2.0,
+62122,2014-12-01,store,|Argentina|Capital Federal|San Telmo|,450000.0,694.0,,
+62123,2014-12-01,house,|Argentina|Capital Federal|Mataderos|,405000.0,667.0,,7.0
+62124,2014-12-01,house,|Argentina|Capital Federal|Floresta|,379000.0,370.0,,5.0
+62125,2014-12-01,house,|Argentina|Capital Federal|Parque Chacabuco|,250000.0,690.0,,6.0
+62126,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,102000.0,52.0,1.0,2.0
+62127,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,95000.0,46.0,11.0,
+62128,2014-12-01,apartment,|Argentina|Capital Federal|Monserrat|,78000.0,56.0,2.0,
+62129,2014-12-01,apartment,|Argentina|Capital Federal|Parque Chacabuco|,92000.0,95.0,,
+62130,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|,115000.0,40.0,6.0,
+62131,2014-12-01,apartment,|Argentina|Capital Federal|Mataderos|,103000.0,62.0,,3.0
+62133,2014-12-01,apartment,|Argentina|Capital Federal|Liniers|,130000.0,92.0,1.0,
+62134,2014-12-01,store,|Argentina|Capital Federal|Villa Crespo|,200000.0,300.0,,
+62135,2014-12-01,apartment,|Argentina|Tucumán|San Miguel de Tucumán|,112847.64,80.0,4.0,2.0
+62136,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,64231.0,24.0,10.0,1.0
+62137,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,62972.0,24.0,9.0,1.0
+62138,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,61737.0,24.0,8.0,1.0
+62139,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,114761.0,52.0,5.0,2.0
+62140,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,53746.0,25.0,1.0,1.0
+62141,2014-12-01,apartment,|Argentina|Capital Federal|Almagro|,94000.0,50.0,2.0,
+62142,2014-12-01,apartment,|Argentina|Capital Federal|Once|,150000.0,120.0,1.0,4.0
+62143,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,129000.0,64.0,3.0,
+62144,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,267310.0,146.0,13.0,3.0
+62145,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,85000.0,75.0,,3.0
+62146,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,65516.0,24.0,11.0,1.0
+62147,2014-12-01,house,|Argentina|Capital Federal|Mataderos|,155000.0,140.0,,4.0
+62148,2014-12-01,apartment,|Argentina|Capital Federal|Boca|,110000.0,88.0,,3.0
+62150,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,83000.0,52.0,8.0,2.0
+62151,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Jose Leon Suarez|,65000.0,89.0,,3.0
+62153,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,73978.0,35.0,1.0,1.0
+62154,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,117000.0,79.0,,2.0
+62155,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,135000.0,116.0,,4.0
+62156,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,220000.0,300.0,,4.0
+62157,2014-12-01,apartment,|Argentina|Capital Federal|Palermo|,165000.0,88.0,7.0,
+62158,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,110000.0,47.0,,
+62160,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,60000.0,49.0,2.0,2.0
+62161,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,69000.0,51.0,1.0,2.0
+62163,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,69000.0,51.0,3.0,2.0
+62164,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,69000.0,51.0,2.0,2.0
+62166,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,60000.0,49.0,2.0,2.0
+62167,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,229000.0,134.0,14.0,2.0
+62168,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,62972.0,24.0,9.0,1.0
+62178,2014-12-01,apartment,|Argentina|Capital Federal|Villa Devoto|,107000.0,46.0,2.0,2.0
+62179,2014-12-01,apartment,|Argentina|Capital Federal|Villa del Parque|,60000.0,30.0,,1.0
+62180,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,66826.0,24.0,12.0,1.0
+62183,2014-12-01,apartment,|Argentina|Capital Federal|Villa Crespo|,69000.0,38.0,2.0,2.0
+62185,2014-12-01,apartment,|Argentina|Capital Federal|Villa Pueyrredón|,68000.0,38.0,,2.0
+62200,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,347000.0,203.0,14.0,3.0
+62201,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,282000.0,99.0,2.0,4.0
+62202,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,160000.0,61.0,6.0,2.0
+62208,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,87789.11,52.0,,2.0
+62209,2014-12-01,apartment,|Argentina|Capital Federal|Once|,175000.0,91.0,,5.0
+62211,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,115000.0,35.0,7.0,1.0
+62212,2014-12-01,apartment,|Argentina|Capital Federal|Puerto Madero|,890000.0,187.0,5.0,3.0
+62214,2014-12-01,store,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,685000.0,127.0,,
+62215,2014-12-01,apartment,|Argentina|Capital Federal|Barrio Norte|,270000.0,100.0,3.0,4.0
+62217,2014-12-01,apartment,|Argentina|Capital Federal|Nuñez|,121000.0,50.0,5.0,2.0
+62218,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,100000.0,145.0,,3.0
+62219,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,94000.0,48.0,,2.0
+62222,2014-12-01,apartment,|Argentina|Capital Federal|Once|,69000.0,34.0,5.0,2.0
+62223,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,65516.0,24.0,11.0,1.0
+62224,2014-12-01,apartment,|Argentina|Capital Federal|Caballito|,128500.0,69.0,19.0,
+62225,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,75.0,,2.0
+62226,2014-12-01,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,283.0,,4.0
+62227,2014-12-01,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,30000.0,300.0,,1.0
+62228,2014-12-01,house,|Argentina|Capital Federal|Villa Devoto|,377000.0,390.0,,4.0
+62229,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,158000.0,85.0,,3.0
+62230,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,79900.0,41.0,,1.0
+62231,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,74500.0,41.0,,1.0
+62232,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,76000.0,41.0,,1.0
+62233,2014-12-01,apartment,|Argentina|Capital Federal|Villa Urquiza|,84000.0,47.0,,2.0
+62234,2014-12-01,apartment,|Argentina|Capital Federal|Villa Urquiza|,84000.0,47.0,,2.0
+62235,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,220000.0,123.0,,4.0
+62236,2014-12-01,apartment,|Argentina|Capital Federal|Parque Chacabuco|,128000.0,114.0,,4.0
+62237,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,80000.0,41.0,,1.0
+62238,2014-12-01,apartment,|Argentina|Capital Federal|Almagro|,63000.0,40.0,,2.0
+62239,2014-12-01,house,|Argentina|Capital Federal|Nuñez|,660000.0,335.0,,4.0
+62240,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,119000.0,86.0,,1.0
+62241,2014-12-01,house,|Argentina|Capital Federal|Floresta|,170000.0,170.0,,3.0
+62245,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,61500.0,34.0,,2.0
+62246,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,61500.0,36.0,,2.0
+62247,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+62248,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78900.0,42.0,,2.0
+62249,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,40.0,,2.0
+62250,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,170000.0,154.0,,4.0
+62265,2014-12-01,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,120000.0,138.0,,3.0
+62267,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,79000.0,50.0,,3.0
+62270,2014-12-01,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,45000.0,1000.0,,3.0
+62271,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,70000.0,37.0,,1.0
+62272,2014-12-01,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,115000.0,73.0,,3.0
+62273,2014-12-01,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,117052.15,141.0,,5.0
+62274,2014-12-01,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,111199.55,450.0,,5.0
+62275,2014-12-01,apartment,|Argentina|Buenos Aires Interior|Bahía Blanca|,67890.25,40.0,,
+62276,2014-12-01,apartment,|Argentina|Capital Federal|,79000.0,66.0,,3.0
+62277,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,79000.0,42.0,,2.0
+62278,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,79000.0,64.0,,2.0
+62279,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,72000.0,39.0,,2.0
+62280,2014-12-01,apartment,|Argentina|Capital Federal|,75000.0,49.0,,2.0
+62281,2014-12-01,apartment,|Argentina|Capital Federal|San Telmo|,60000.0,27.0,,1.0
+62282,2014-12-01,apartment,|Argentina|Capital Federal|,65000.0,42.0,,2.0
+62283,2014-12-01,apartment,|Argentina|Capital Federal|Barracas|,105000.0,158.0,,
+62284,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,147000.0,340.0,,
+62285,2014-12-01,apartment,|Argentina|Córdoba|,84277.55,78.0,,
+62287,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Haedo|,130000.0,120.0,,
+62289,2014-12-01,house,|Argentina|Capital Federal|Mataderos|,170000.0,300.0,,
+62290,2014-12-01,apartment,|Argentina|Capital Federal|Villa Devoto|,98000.0,180.0,,3.0
+62292,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,73000.0,56.0,,
+62295,2014-12-01,apartment,|Argentina|Santa Fe|Rosario|,58000.0,35.0,,
+62297,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Benavidez|,210000.0,170.0,,3.0
+62298,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Malvinas Argentinas|Los Polvorines|,450000.0,300.0,,3.0
+62319,2014-12-01,apartment,|Argentina|Capital Federal|Belgrano|,465000.0,165.0,,
+62329,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|,215000.0,410.0,,
+62330,2014-12-01,apartment,|Argentina|Córdoba|,450000.0,147.0,,
+62331,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Almirante Brown|Adrogué|,240000.0,95.0,,
+62332,2014-12-01,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,107000.0,60.0,,
+62340,2014-12-01,apartment,|Argentina|Córdoba|,99494.33,80.0,,
+62341,2014-12-01,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,760000.0,881.0,,
+62342,2014-12-01,apartment,|Argentina|Córdoba|,228251.7,110.0,,
+62344,2014-12-01,apartment,|Argentina|Capital Federal|San Cristobal|,120000.0,55.0,,
+62345,2014-12-01,apartment,|Argentina|Capital Federal|Villa Crespo|,155000.0,90.0,,
+62346,2014-12-01,apartment,|Argentina|Capital Federal|,77000.0,38.0,,
+62350,2014-12-01,apartment,|Argentina|Capital Federal|Flores|,58000.0,33.0,,
+62351,2014-12-01,apartment,|Argentina|Capital Federal|,65000.0,37.0,,
+62354,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78900.0,44.0,,2.0
+62355,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,49900.0,24.0,,1.0
+62356,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,112000.0,56.0,,2.0
+62357,2014-12-02,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,35000.0,270.0,,3.0
+62358,2014-12-02,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+62362,2014-12-02,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,75.0,,3.0
+62368,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,40.0,,2.0
+62370,2014-12-02,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+62371,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,51000.0,26.0,,1.0
+62376,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,117000.0,52.0,,2.0
+62377,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,68000.0,40.0,,1.0
+62378,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,155000.0,72.0,,3.0
+62379,2014-12-02,apartment,|Argentina|Capital Federal|Boedo|,94000.0,52.0,,3.0
+62380,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,75000.0,42.0,,2.0
+62381,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,270000.0,173.0,,5.0
+62382,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,120000.0,71.0,,3.0
+62383,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,127500.0,70.0,,3.0
+62384,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,220000.0,87.0,,4.0
+62385,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,145000.0,77.0,,3.0
+62386,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,175000.0,112.0,,3.0
+62387,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,162000.0,79.0,,3.0
+62388,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,165000.0,79.0,,3.0
+62389,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,260000.0,121.0,,3.0
+62390,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,168000.0,79.0,,3.0
+62391,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,165000.0,118.0,,3.0
+62392,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,94000.0,72.0,,2.0
+62393,2014-12-02,apartment,|Argentina|Capital Federal|Nuñez|,100000.0,57.0,,2.0
+62394,2014-12-02,apartment,|Argentina|Capital Federal|Nuñez|,106000.0,35.0,,1.0
+62395,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,129000.0,56.0,,3.0
+62396,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,132000.0,63.0,,3.0
+62397,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,135000.0,63.0,,3.0
+62398,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,105000.0,49.0,,3.0
+62399,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,220000.0,106.0,,4.0
+62400,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,99000.0,54.0,,2.0
+62401,2014-12-02,PH,|Argentina|Capital Federal|Villa Crespo|,156000.0,140.0,,3.0
+62402,2014-12-02,PH,|Argentina|Capital Federal|Almagro|,159000.0,52.0,,3.0
+62403,2014-12-02,house,|Argentina|Capital Federal|Caballito|,225000.0,95.0,,4.0
+62404,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,70000.0,33.0,,1.0
+62405,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,93000.0,50.0,,3.0
+62406,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,132000.0,70.0,,3.0
+62407,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,11705.21,47.0,,2.0
+62408,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,15450.88,59.0,,2.0
+62409,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,227500.0,180.0,1.0,4.0
+62412,2014-12-02,apartment,|Argentina|Capital Federal|Belgrano|,85000.0,37.0,3.0,1.0
+62413,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,115000.0,230.0,,
+62414,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,460000.0,260.0,,4.0
+62416,2014-12-02,apartment,|Argentina|Capital Federal|Recoleta|,185000.0,90.0,5.0,4.0
+62418,2014-12-02,house,|Argentina|Capital Federal|Belgrano|,2200000.0,960.0,,7.0
+62419,2014-12-02,apartment,|Argentina|Capital Federal|Barrio Norte|,115000.0,53.0,1.0,
+62421,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,139000.0,80.0,,3.0
+62422,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,75000.0,65.0,,2.0
+62423,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,73000.0,48.0,,2.0
+62424,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,70000.0,40.0,1.0,2.0
+62427,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,195000.0,120.0,,
+62428,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,1300000.0,971.0,,
+62430,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudad Jardín Lomas del Palomar|,85000.0,44.0,5.0,
+62431,2014-12-02,apartment,|Argentina|Capital Federal|Once|,125000.0,80.0,,
+62432,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,174992.97,62.0,5.0,3.0
+62433,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,199500.0,95.0,,4.0
+62434,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,139900.0,60.0,,3.0
+62435,2014-12-02,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,70000.0,33.0,,2.0
+62436,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Jose Leon Suarez|,82000.0,170.0,,3.0
+62437,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Jose Leon Suarez|,82000.0,170.0,,3.0
+62438,2014-12-02,apartment,|Argentina|Capital Federal|,67000.0,40.0,,1.0
+62439,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Virreyes|,115000.0,300.0,,
+62441,2014-12-02,PH,|Argentina|Capital Federal|Liniers|,90000.0,53.0,,
+62449,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Santos Lugares|,72000.0,46.0,,
+62452,2014-12-02,PH,|Argentina|Bs.As. G.B.A. Zona Sur|Lomas de Zamora|Temperley|,260000.0,212.0,,6.0
+62453,2014-12-02,apartment,|Argentina|Capital Federal|,67000.0,42.0,,2.0
+62454,2014-12-02,apartment,|Argentina|Capital Federal|,140000.0,50.0,,2.0
+62455,2014-12-02,apartment,|Argentina|Capital Federal|,60000.0,68.0,,2.0
+62456,2014-12-02,apartment,|Argentina|Capital Federal|Belgrano|,120000.0,55.0,,2.0
+62457,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,92000.0,40.0,,2.0
+62458,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,162000.0,79.0,,3.0
+62459,2014-12-02,PH,|Argentina|Capital Federal|Caballito|,260000.0,200.0,,5.0
+62460,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,295000.0,107.0,,4.0
+62461,2014-12-02,apartment,|Argentina|Capital Federal|Flores|,118000.0,68.0,,3.0
+62462,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,235000.0,98.0,,4.0
+62463,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,85000.0,45.0,,2.0
+62464,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,71000.0,42.0,,1.0
+62465,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,155000.0,150.0,,2.0
+62466,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,140000.0,65.0,,3.0
+62467,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,130000.0,59.0,,2.0
+62468,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,134000.0,59.0,,2.0
+62469,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,125000.0,69.0,,3.0
+62470,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,96000.0,49.0,,1.0
+62471,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,74000.0,38.0,,1.0
+62472,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,200000.0,160.0,,5.0
+62473,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,200000.0,114.0,,4.0
+62475,2014-12-02,house,|Argentina|Buenos Aires Interior|Zárate|,185000.0,960.0,,3.0
+62477,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|,1111111.0,527.0,,
+62478,2014-12-02,house,|Argentina|Santa Fe|Iriondo|,169725.62,876.0,,
+62479,2014-12-02,apartment,|Argentina|Santa Fe|Rosario|,140000.0,170.0,,
+62480,2014-12-02,apartment,|Argentina|Capital Federal|Palermo|,85000.0,37.0,,
+62485,2014-12-02,apartment,|Argentina|Capital Federal|Belgrano|,90000.0,39.0,,3.0
+62487,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,99500.0,40.0,4.0,2.0
+62488,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,110875.55,37.0,3.0,1.0
+62489,2014-12-02,apartment,|Argentina|Capital Federal|Belgrano|,600000.0,218.0,12.0,4.0
+62490,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,69000.0,38.0,3.0,1.0
+62491,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,69000.0,38.0,3.0,1.0
+62492,2014-12-02,apartment,|Argentina|Capital Federal|Villa Crespo|,167000.0,110.0,2.0,4.0
+62493,2014-12-02,apartment,|Argentina|Capital Federal|Belgrano|,600000.0,218.0,12.0,5.0
+62494,2014-12-02,apartment,|Argentina|Capital Federal|Nuñez|,195000.0,63.0,,3.0
+62497,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Quilmes|Quilmes|,78000.0,64.0,,
+62498,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Quilmes|Quilmes|,135000.0,79.0,,
+62501,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,49000.0,22.0,1.0,1.0
+62503,2014-12-02,apartment,|Argentina|Capital Federal|Villa Luro|,100000.0,50.0,2.0,2.0
+62504,2014-12-02,apartment,|Argentina|Capital Federal|Villa Luro|,99000.0,50.0,1.0,2.0
+62505,2014-12-02,store,|Argentina|Capital Federal|Centro / Microcentro|,1500000.0,1000.0,,
+62506,2014-12-02,house,|Argentina|Capital Federal|Centro / Microcentro|,560000.0,700.0,,
+62507,2014-12-02,apartment,|Argentina|Capital Federal|San Cristobal|,187000.0,176.0,,4.0
+62508,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,76000.0,42.0,3.0,
+62509,2014-12-02,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,265000.0,114.0,,
+62511,2014-12-02,apartment,|Argentina|Capital Federal|Caballito|,117000.0,52.0,9.0,2.0
+62512,2014-12-02,apartment,|Argentina|Capital Federal|Las Cañitas|,220000.0,45.0,,2.0
+62513,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,119500.0,45.0,,
+62514,2014-12-02,apartment,|Argentina|Capital Federal|Nuñez|,110000.0,43.0,,2.0
+62515,2014-12-02,apartment,|Argentina|Capital Federal|Centro / Microcentro|,189000.0,114.0,3.0,4.0
+62516,2014-12-02,apartment,|Argentina|Capital Federal|Flores|,210000.0,96.0,2.0,4.0
+62520,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,85000.0,61.0,10.0,3.0
+62522,2014-12-02,store,|Argentina|Capital Federal|Monserrat|,1500000.0,1000.0,,
+62523,2014-12-02,apartment,|Argentina|Capital Federal|Monte Castro|,75000.0,45.0,2.0,1.0
+62524,2014-12-02,apartment,|Argentina|Capital Federal|Palermo|Palermo Chico|,550000.0,127.0,,4.0
+62526,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,140000.0,88.0,,
+62527,2014-12-02,apartment,|Argentina|Capital Federal|Villa Devoto|,80000.0,46.0,2.0,2.0
+62528,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,230000.0,87.0,5.0,4.0
+62529,2014-12-02,apartment,|Argentina|Capital Federal|Villa Urquiza|,250000.0,100.0,4.0,4.0
+62530,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,96500.0,58.0,1.0,2.0
+62531,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,53000.0,33.0,2.0,
+62532,2014-12-02,apartment,|Argentina|Capital Federal|Barrio Norte|,95000.0,52.0,6.0,2.0
+62533,2014-12-02,apartment,|Argentina|Capital Federal|Barrio Norte|,97000.0,54.0,7.0,3.0
+62534,2014-12-02,apartment,|Argentina|Capital Federal|San Nicolás|,95000.0,63.0,6.0,3.0
+62535,2014-12-02,apartment,|Argentina|Capital Federal|Barrio Norte|,170000.0,100.0,9.0,3.0
+62536,2014-12-02,apartment,|Argentina|Capital Federal|San Cristobal|,120000.0,94.0,1.0,4.0
+62537,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,180000.0,300.0,,3.0
+62538,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,68000.0,26.0,4.0,2.0
+62541,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,45000.0,54.0,2.0,2.0
+62542,2014-12-02,apartment,|Argentina|Capital Federal|Coghlan|,150000.0,78.0,4.0,3.0
+62548,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Villa Sarmiento|,85000.0,40.0,1.0,2.0
+62549,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,150000.0,120.0,,4.0
+62550,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Morón|,90000.0,52.0,1.0,3.0
+62552,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,164000.0,144.0,,4.0
+62553,2014-12-02,apartment,|Argentina|Capital Federal|Palermo|,150000.0,35.0,,1.0
+62554,2014-12-02,apartment,|Argentina|Capital Federal|Almagro|,130000.0,73.0,,3.0
+62555,2014-12-02,apartment,|Argentina|Capital Federal|Balvanera|,85000.0,45.0,,2.0
+62556,2014-12-02,apartment,|Argentina|Capital Federal|Villa Luro|,110000.0,59.0,3.0,2.0
+62557,2014-12-02,apartment,|Argentina|Capital Federal|Villa Luro|,168000.0,114.0,1.0,3.0
+62558,2014-12-02,apartment,|Argentina|Capital Federal|Villa Luro|,141000.0,69.0,2.0,3.0
+62561,2014-12-02,house,|Argentina|Misiones|Posadas|,210911.13,340.0,,4.0
+62566,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,68000.0,38.0,,
+62567,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,220000.0,720.0,,
+62568,2014-12-02,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,45000.0,38.0,,
+62571,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,185000.0,307.0,,
+62577,2014-12-02,house,|Argentina|Capital Federal|Chacarita|,160000.0,126.0,,3.0
+62578,2014-12-02,house,|Argentina|Bs.As. G.B.A. Zona Sur|Esteban Echeverría|Monte Grande|,105000.0,320.0,,4.0
+62580,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,99900.0,50.0,,2.0
+62581,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,85900.0,46.0,,2.0
+62582,2014-12-02,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,25000.0,410.0,,1.0
+62588,2014-12-02,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,140000.0,225.0,,3.0
+62590,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,55000.0,38.0,,2.0
+62592,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,55000.0,35.0,,2.0
+62593,2014-12-02,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48900.0,26.0,,1.0
+62858,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|Paso del Rey|,135000.0,300.0,,
+62859,2014-12-03,house,|Argentina|San Luis|Potrero de los Funes|,165000.0,170.0,,
+62860,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,300000.0,320.0,,
+62862,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Parque Leloir|,250000.0,536.0,,
+62865,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,250000.0,120.0,7.0,
+62866,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,247000.0,120.0,10.0,
+62867,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,245000.0,120.0,9.0,
+62868,2014-12-03,apartment,|Argentina|Capital Federal|Villa Crespo|,129000.0,90.0,,4.0
+62869,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,75000.0,38.0,2.0,2.0
+62870,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,135000.0,120.0,,3.0
+62873,2014-12-03,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,85000.0,60.0,7.0,2.0
+62874,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,258000.0,120.0,12.0,
+62875,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,249000.0,120.0,11.0,
+62876,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,139000.0,54.0,,3.0
+62877,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,1200000.0,790.0,,
+62878,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,110000.0,56.0,,2.0
+62879,2014-12-03,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,147000.0,49.0,8.0,
+62880,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,65000.0,24.0,,1.0
+62881,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,118000.0,55.0,1.0,3.0
+62882,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,250000.0,120.0,13.0,
+62883,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,169000.0,300.0,,
+62884,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|General Rodríguez|General Rodríguez|,35115.64,40.0,,
+62886,2014-12-03,house,|Argentina|Misiones|Posadas|,150000.0,575.0,,
+62887,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,161000.0,91.0,,2.0
+62915,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,62000.0,44.0,,
+62916,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,130000.0,342.0,,
+62917,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,71500.0,49.0,,
+62918,2014-12-03,PH,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,65000.0,150.0,,
+62919,2014-12-03,PH,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,73000.0,56.0,,
+62920,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,119900.0,73.0,,
+62980,2014-12-03,house,|Argentina|Capital Federal|San Telmo|,320000.0,287.0,,5.0
+62981,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,140000.0,82.0,,
+62982,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,180000.0,536.0,,
+62984,2014-12-03,PH,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,75000.0,130.0,,
+62985,2014-12-03,PH,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,75000.0,125.0,,
+62986,2014-12-03,apartment,|Argentina|Capital Federal|Almagro|,70000.0,64.0,,
+62988,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,71000.0,43.0,,
+62989,2014-12-03,apartment,|Argentina|Capital Federal|,71500.0,34.0,,
+62991,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,75500.0,49.0,,
+62992,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,73500.0,47.0,,
+62993,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,73500.0,49.0,,
+62994,2014-12-03,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,165000.0,260.0,,
+62996,2014-12-03,apartment,|Argentina|Capital Federal|Villa Urquiza|,140000.0,91.0,,
+62997,2014-12-03,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,52000.0,32.0,,
+62998,2014-12-03,apartment,|Argentina|Capital Federal|San Telmo|,86586.0,58.0,,1.0
+63020,2014-12-03,PH,|Argentina|Capital Federal|Monte Castro|,120000.0,83.0,,3.0
+63021,2014-12-03,house,|Argentina|Capital Federal|Villa Lugano|,250000.0,149.0,,
+63031,2014-12-03,house,|Argentina|Córdoba|Córdoba|,250000.0,250.0,,
+63038,2014-12-03,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,88000.0,50.0,,2.0
+63041,2014-12-03,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,70.0,,3.0
+63042,2014-12-03,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,58900.0,30.0,,1.0
+63043,2014-12-03,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,45.0,,2.0
+63044,2014-12-03,apartment,|Argentina|Capital Federal|Caballito|,298000.0,190.0,,
+63045,2014-12-03,apartment,|Argentina|Capital Federal|Flores|,75000.0,40.0,,
+63181,2014-12-04,apartment,|Argentina|Capital Federal|Flores|,80000.0,52.0,,
+63182,2014-12-04,apartment,|Argentina|Capital Federal|Caballito|,78000.0,30.0,,
+63183,2014-12-04,apartment,|Argentina|Capital Federal|Balvanera|,70000.0,40.0,,
+63184,2014-12-04,apartment,|Argentina|Capital Federal|Villa General Mitre|,84000.0,50.0,,
+63185,2014-12-04,apartment,|Argentina|Capital Federal|Monte Castro|,114000.0,53.0,,
+63187,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,140000.0,90.0,,3.0
+63188,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,130000.0,150.0,,
+63189,2014-12-04,apartment,|Argentina|Capital Federal|Flores|,305000.0,177.0,8.0,4.0
+63190,2014-12-04,apartment,|Argentina|Capital Federal|Belgrano|,280000.0,130.0,5.0,3.0
+63191,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,180000.0,348.0,,
+63192,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,165000.0,281.0,,3.0
+63195,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Beccar|,375000.0,915.0,,
+63196,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,162000.0,270.0,,4.0
+63197,2014-12-04,apartment,|Argentina|Capital Federal|Almagro|,260000.0,105.0,12.0,
+63198,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Sur|Avellaneda|,130000.0,300.0,,3.0
+63199,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,267000.0,114.0,3.0,3.0
+63200,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,290000.0,116.0,4.0,3.0
+63202,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,112000.0,75.0,,
+63203,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,114711.11,135.0,,3.0
+63204,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|La Reja|,50000.0,268.0,,
+63205,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,148000.0,130.0,,3.0
+63207,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,73742.85,32.0,,
+63208,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,97153.29,44.0,,
+63209,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,86618.59,53.0,,
+63210,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,80765.98,38.0,,
+63211,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|Belén de Escobar|,65000.0,61.0,,
+63212,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,86618.59,72.0,,
+63213,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,128757.37,82.0,,
+63214,2014-12-04,PH,|Argentina|Capital Federal|Villa Devoto|,119000.0,96.0,,
+63215,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,88959.64,42.0,,
+63216,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,189624.49,67.0,,1.0
+63223,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,73742.85,39.0,,
+63224,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,61452.38,28.0,,
+63225,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,77254.42,74.0,,
+63226,2014-12-04,apartment,|Argentina|Capital Federal|Nuñez|,129500.0,72.0,,
+63227,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,74328.12,75.0,,
+63228,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Hurlingham|,70231.29,280.0,,
+63229,2014-12-04,apartment,|Argentina|Capital Federal|Villa Urquiza|,99000.0,49.0,,
+63231,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,59696.6,30.0,,
+63232,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,72572.33,38.0,,
+63233,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,77254.42,63.0,,
+63234,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,91300.68,67.0,,
+63235,2014-12-04,apartment,|Argentina|Santa Fe|Rosario|,64378.68,34.0,,
+63237,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Sur|Almirante Brown|Adrogué|,600000.0,1013.0,,
+63240,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,195000.0,168.0,,3.0
+63245,2014-12-04,apartment,|Argentina|Capital Federal|Belgrano|,180000.0,66.0,,3.0
+63250,2014-12-04,apartment,|Argentina|Capital Federal|,99000.0,50.0,,3.0
+63254,2014-12-04,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,52000.0,30.0,,
+63263,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,135000.0,170.0,,
+63266,2014-12-04,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,62000.0,1200.0,,3.0
+63279,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,62000.0,29.0,,2.0
+63280,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,25000.0,50.0,,2.0
+63282,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+63293,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,54000.0,33.0,,1.0
+63296,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,37000.0,23.0,,1.0
+63297,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,110.0,,4.0
+63298,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+63299,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78900.0,42.0,,2.0
+63301,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,99000.0,40.0,,2.0
+63302,2014-12-05,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,165000.0,125.0,,5.0
+63305,2014-12-05,apartment,|Argentina|Buenos Aires Interior|Bahía Blanca|,87789.11,60.0,,3.0
+63306,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,45740.0,176.0,,4.0
+63307,2014-12-05,apartment,|Argentina|Entre Ríos|Villa Elisa|,117052.15,60.0,2.0,3.0
+63308,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,110000.0,71.0,2.0,2.0
+63309,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Victoria|,105000.0,48.0,2.0,2.0
+63310,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,300000.0,350.0,,4.0
+63311,2014-12-05,house,|Argentina|Neuquén|Junin de los Andes|,165000.0,148.0,,4.0
+63312,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Benavidez|,220000.0,320.0,,1.0
+63313,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,95000.0,51.0,2.0,2.0
+63315,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,180000.0,125.0,,4.0
+63316,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,75000.0,105.0,2.0,3.0
+63317,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Benavidez|,250000.0,217.0,,
+63320,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,125000.0,44.0,7.0,2.0
+63322,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,260000.0,223.0,,3.0
+63323,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,570000.0,528.0,,5.0
+63324,2014-12-05,apartment,|Argentina|Capital Federal|Belgrano|,195000.0,70.0,,2.0
+63326,2014-12-05,house,|Uruguay|Punta del Este|,270000.0,525.0,,
+63329,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Isidro Casanova|,130000.0,350.0,,7.0
+63330,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,32000.0,50.0,,
+63331,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,57000.0,23.0,,
+63332,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,80000.0,350.0,,
+63333,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,87789.11,350.0,,
+63334,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,65000.0,200.0,,
+63335,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,1500000.0,600.0,,
+63336,2014-12-05,house,|Argentina|Capital Federal|Flores|,137000.0,90.0,,
+63337,2014-12-05,PH,|Argentina|Capital Federal|Flores|,137000.0,90.0,,
+63338,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,104240.09,56.0,,1.0
+63340,2014-12-05,apartment,|Argentina|Capital Federal|Colegiales|,114632.0,50.0,,2.0
+63341,2014-12-05,apartment,|Argentina|Capital Federal|Floresta|,95000.0,60.0,,2.0
+63342,2014-12-05,house,|Argentina|Capital Federal|Pompeya|,140000.0,230.0,,3.0
+63344,2014-12-05,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudadela|,79000.0,166.0,,
+63345,2014-12-05,PH,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Haedo|,75000.0,60.0,,
+63346,2014-12-05,apartment,|Argentina|Santa Fe|Rosario|,97153.29,48.0,,
+63348,2014-12-05,house,|Argentina|Capital Federal|Mataderos|,350000.0,450.0,,
+63355,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,95000.0,46.0,,
+63357,2014-12-05,apartment,|Argentina|Capital Federal|Caballito|,78000.0,40.0,,
+63358,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,75000.0,116.0,,
+63368,2014-12-05,apartment,|Argentina|Capital Federal|Almagro|,98000.0,54.0,,3.0
+63416,2014-12-05,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,123000.0,50.0,,2.0
+63417,2014-12-05,PH,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Munro|,155000.0,120.0,,3.0
+63419,2014-12-05,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,65000.0,500.0,,3.0
+63420,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+63421,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,60000.0,35.0,,2.0
+63422,2014-12-05,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,75000.0,50.0,,2.0
+63429,2014-12-05,apartment,|Argentina|Capital Federal|Almagro|,145144.67,53.0,,
+63460,2014-12-06,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,38000.0,26.0,,1.0
+63461,2014-12-06,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,60000.0,30.0,,2.0
+63462,2014-12-06,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,85000.0,46.0,,2.0
+63463,2014-12-06,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,53000.0,48.0,,3.0
+63465,2014-12-06,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,52000.0,45.0,1.0,2.0
+63466,2014-12-06,store,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Haedo|,35000.0,350.0,,
+63467,2014-12-06,apartment,|Argentina|Capital Federal|Recoleta|,135000.0,39.0,4.0,1.0
+63468,2014-12-06,apartment,|Argentina|Capital Federal|Recoleta|,126000.0,32.0,4.0,1.0
+63469,2014-12-06,apartment,|Argentina|Capital Federal|Recoleta|,132000.0,39.0,2.0,1.0
+63471,2014-12-06,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,211936.0,119.0,2.0,
+63473,2014-12-06,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,98000.0,53.0,2.0,
+63474,2014-12-06,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,240000.0,210.0,,
+63475,2014-12-06,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,160000.0,210.0,,
+63476,2014-12-06,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Rincón de Milberg|,340000.0,430.0,,
+63477,2014-12-06,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,165060.0,108.0,4.0,
+63478,2014-12-06,apartment,|Uruguay|Montevideo|,119000.0,65.0,,3.0
+63483,2014-12-06,apartment,|Argentina|Capital Federal|Puerto Madero|,230000.0,52.0,,
+63484,2014-12-06,apartment,|Argentina|Capital Federal|Saavedra|,75000.0,39.0,,
+63485,2014-12-06,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,75000.0,40.0,,
+63486,2014-12-06,house,|Argentina|Buenos Aires Interior|Campana|Alto Los Cardales|,220000.0,1000.0,,
+63487,2014-12-06,apartment,|Argentina|Capital Federal|Villa Urquiza|,155000.0,62.0,,
+63493,2014-12-07,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,38.0,,2.0
+63494,2014-12-07,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,30.0,,1.0
+63496,2014-12-07,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Villa Adelina|,75000.0,81.0,,2.0
+63497,2014-12-07,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,360000.0,250.0,,
+63498,2014-12-07,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,120000.0,91.0,,3.0
+63499,2014-12-07,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|General Pacheco|,135000.0,65.0,,2.0
+63500,2014-12-07,apartment,|Uruguay|Punta del Este|,300000.0,88.0,,
+63501,2014-12-07,house,|Uruguay|Punta del Este|,500000.0,235.0,,
+63502,2014-12-07,house,|Argentina|Buenos Aires Interior|Campana|,220000.0,1000.0,,3.0
+63503,2014-12-07,apartment,|Argentina|Capital Federal|Villa del Parque|,195000.0,102.0,,
+63504,2014-12-07,apartment,|Argentina|Capital Federal|Saavedra|,117000.0,61.0,,
+63507,2014-12-08,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,285000.0,151.0,,5.0
+63508,2014-12-08,apartment,|Argentina|Capital Federal|Villa Urquiza|,89500.0,40.0,1.0,2.0
+63509,2014-12-08,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,149000.0,78.0,,3.0
+63510,2014-12-08,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,91500.0,53.0,,3.0
+63511,2014-12-08,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|La Lonja|,325000.0,597.0,,4.0
+63512,2014-12-08,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,360000.0,247.0,,5.0
+63513,2014-12-08,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,285000.0,151.0,,5.0
+63517,2014-12-09,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,58000.0,61.0,,3.0
+63518,2014-12-09,apartment,|Argentina|Santa Fe|Rosario|,152167.8,129.0,,8.0
+63519,2014-12-09,apartment,|Argentina|Capital Federal|,230000.0,70.0,,3.0
+63520,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,195000.0,210.0,,3.0
+63521,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,233000.0,87.0,,4.0
+63522,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,235000.0,347.0,,5.0
+63523,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,233000.0,87.0,,4.0
+63524,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,146000.0,80.0,,3.0
+63525,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,138000.0,110.0,,4.0
+63526,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,235000.0,347.0,,5.0
+63527,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,190000.0,84.0,1.0,4.0
+63528,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,110000.0,45.0,8.0,2.0
+63529,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,255000.0,300.0,,3.0
+63530,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,350000.0,204.0,,5.0
+63531,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,165000.0,107.0,,3.0
+63532,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,133000.0,108.0,,4.0
+63533,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,205000.0,84.0,5.0,4.0
+63534,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,128000.0,70.0,1.0,3.0
+63536,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,255000.0,244.0,,4.0
+63537,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,255000.0,145.0,,4.0
+63538,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,135000.0,60.0,1.0,3.0
+63539,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,205000.0,84.0,5.0,4.0
+63540,2014-12-09,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,155000.0,150.0,,3.0
+63541,2014-12-09,apartment,|Argentina|Capital Federal|Belgrano|,157000.0,98.0,,4.0
+63542,2014-12-09,house,|Uruguay|Punta del Este|,385000.0,1170.0,,
+63565,2014-12-09,apartment,|Argentina|Capital Federal|San Cristobal|,46825.79,30.0,,1.0
+63567,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Isidro Casanova|,53000.0,45.0,,
+63568,2014-12-09,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Isidro Casanova|,55000.0,49.0,,
+63574,2014-12-09,PH,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|La Lucila|,125000.0,72.0,,3.0
+63584,2014-12-10,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,80000.0,53.0,,2.0
+63591,2014-12-10,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,330000.0,220.0,,
+63592,2014-12-10,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|Virreyes|,48000.0,84.0,1.0,
+63593,2014-12-10,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,89000.0,54.0,3.0,2.0
+63594,2014-12-10,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,97000.0,44.0,,2.0
+63595,2014-12-10,store,|Argentina|Capital Federal|Palermo|,320000.0,53.0,,
+63596,2014-12-10,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+63597,2014-12-10,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,145000.0,71.0,,3.0
+63599,2014-12-10,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,89000.0,44.0,1.0,2.0
+63600,2014-12-10,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,77000.0,49.0,,2.0
+63601,2014-12-10,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,46.0,,1.0
+63605,2014-12-10,apartment,|Argentina|Capital Federal|Villa Urquiza|,78000.0,38.0,,
+63635,2014-12-11,apartment,|Argentina|Capital Federal|Recoleta|,110000.0,60.0,,3.0
+63716,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,650000.0,850.0,,
+63717,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,179323.9,150.0,,4.0
+63718,2014-12-11,apartment,|Argentina|Capital Federal|Belgrano|,150000.0,56.0,,3.0
+63720,2014-12-11,apartment,|Argentina|Capital Federal|Paternal|,119000.0,82.0,5.0,3.0
+63721,2014-12-11,apartment,|Argentina|Capital Federal|Villa Crespo|,119000.0,82.0,5.0,3.0
+63722,2014-12-11,apartment,|Argentina|Capital Federal|Caballito|,119000.0,82.0,5.0,3.0
+63723,2014-12-11,apartment,|Argentina|Capital Federal|Villa General Mitre|,119000.0,82.0,5.0,3.0
+63724,2014-12-11,apartment,|Argentina|Capital Federal|Villa Crespo|,115000.0,55.0,5.0,3.0
+63725,2014-12-11,apartment,|Argentina|Capital Federal|Villa Crespo|,90000.0,40.0,9.0,
+63726,2014-12-11,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,165000.0,58.0,,2.0
+63731,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,197818.14,150.0,,4.0
+63737,2014-12-11,apartment,|Argentina|Capital Federal|Palermo|,320000.0,180.0,,4.0
+63742,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,65000.0,207.0,,4.0
+63743,2014-12-11,house,|Argentina|La Pampa|Santa Rosa|,76083.9,182.0,,
+63752,2014-12-11,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,42.0,,1.0
+63754,2014-12-11,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,73000.0,283.0,,3.0
+63760,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar|,88000.0,56.0,,2.0
+63761,2014-12-11,apartment,|Argentina|Capital Federal|Pompeya|,59500.0,70.0,1.0,4.0
+63763,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,220000.0,82.0,5.0,3.0
+63765,2014-12-11,apartment,|Argentina|Capital Federal|Balvanera|,67000.0,50.0,2.0,
+63766,2014-12-11,apartment,|Argentina|Capital Federal|Villa Crespo|,69000.0,34.0,5.0,
+63767,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|San Isidro|,850000.0,355.0,,
+63768,2014-12-11,apartment,|Argentina|Capital Federal|Belgrano|,120000.0,69.0,,
+63769,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,337398.39,120.0,,
+63770,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,296752.27,94.0,,
+63771,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,151085.07,50.0,,
+63772,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,87000.0,57.0,2.0,2.0
+63773,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,79000.0,90.0,,3.0
+63774,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|La Lucila|,265000.0,228.0,,
+63775,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,280000.0,108.0,2.0,3.0
+63776,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,300000.0,207.0,3.0,
+63777,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,89000.0,51.0,3.0,3.0
+63778,2014-12-11,apartment,|Argentina|Capital Federal|Caballito|,110000.0,86.0,1.0,3.0
+63779,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,76000.0,47.0,7.0,3.0
+63780,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,410000.0,290.0,,
+63781,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,598000.0,820.0,,5.0
+63782,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,105000.0,84.0,1.0,3.0
+63783,2014-12-11,store,|Argentina|Capital Federal|Congreso|,260000.0,82.0,,
+63785,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,78000.0,40.0,5.0,2.0
+63786,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,269000.0,890.0,,3.0
+63787,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,209000.0,300.0,,4.0
+63788,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,598000.0,820.0,,5.0
+63789,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,209000.0,300.0,,4.0
+63790,2014-12-11,apartment,|Argentina|Capital Federal|Once|,68000.0,39.0,5.0,2.0
+63791,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,255000.0,260.0,,4.0
+63792,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Villa Sarmiento|,165000.0,116.0,,4.0
+63793,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,165000.0,106.0,7.0,
+63794,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,220000.0,82.0,5.0,3.0
+63796,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,239000.0,165.0,,
+63798,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,85000.0,47.0,1.0,2.0
+63799,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,85000.0,47.0,1.0,2.0
+63800,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,85000.0,47.0,1.0,2.0
+63801,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,114000.0,40.0,1.0,
+63802,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,95000.0,69.0,7.0,3.0
+63805,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,255000.0,260.0,,4.0
+63806,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,120000.0,87.0,6.0,4.0
+63807,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,680000.0,743.0,,4.0
+63808,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,680000.0,743.0,,4.0
+63809,2014-12-11,apartment,|Argentina|Capital Federal|Belgrano|,224740.14,72.0,2.0,3.0
+63810,2014-12-11,apartment,|Argentina|Capital Federal|Barrio Norte|,123000.0,55.0,3.0,2.0
+63811,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,75000.0,50.0,,2.0
+63812,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|San Isidro|,140000.0,62.0,5.0,
+63813,2014-12-11,apartment,|Argentina|Capital Federal|Las Cañitas|,220000.0,45.0,,2.0
+63814,2014-12-11,apartment,|Argentina|Capital Federal|Palermo|,380000.0,98.0,,3.0
+63815,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,280000.0,108.0,2.0,3.0
+63816,2014-12-11,apartment,|Argentina|Capital Federal|Once|,195000.0,85.0,1.0,3.0
+63817,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,680000.0,743.0,,4.0
+63818,2014-12-11,apartment,|Argentina|Capital Federal|Once|,185000.0,83.0,5.0,4.0
+63820,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,410000.0,290.0,,
+63821,2014-12-11,apartment,|Argentina|Capital Federal|Congreso|,76000.0,38.0,4.0,2.0
+63822,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,179000.0,191.0,,
+63823,2014-12-11,apartment,|Argentina|Capital Federal|Villa Crespo|,120000.0,108.0,2.0,3.0
+63824,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,51000.0,26.0,,1.0
+63825,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,250000.0,89.0,,3.0
+63826,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudad Jardín Lomas del Palomar|,150000.0,300.0,,
+63827,2014-12-11,house,|Argentina|Salta|Salta|,81936.51,83.0,,4.0
+63828,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,215000.0,195.0,,4.0
+63829,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,215000.0,195.0,,4.0
+63833,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,111199.55,49.0,2.0,2.0
+63834,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,350000.0,98.0,2.0,
+63835,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,125000.0,30.0,,
+63836,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,115000.0,50.0,4.0,1.0
+63837,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,135000.0,70.0,4.0,1.0
+63838,2014-12-11,apartment,|Uruguay|Punta del Este|,651475.0,151.0,7.0,3.0
+63839,2014-12-11,apartment,|Uruguay|Punta del Este|,651475.0,150.0,7.0,3.0
+63841,2014-12-11,house,|Argentina|Misiones|Posadas|,45650.34,320.0,,3.0
+63842,2014-12-11,house,|Argentina|Misiones|Posadas|,49161.9,180.0,,2.0
+63843,2014-12-11,apartment,|Argentina|Capital Federal|Versalles|,56500.0,36.0,1.0,
+63845,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,269000.0,890.0,,3.0
+63850,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,290000.0,160.0,2.0,4.0
+63851,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,30.0,,1.0
+63852,2014-12-11,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,55000.0,70.0,,3.0
+63854,2014-12-11,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,320.0,,5.0
+63855,2014-12-11,apartment,|Uruguay|Punta del Este|,448823.0,112.0,3.0,3.0
+63856,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,65000.0,45.0,,2.0
+63857,2014-12-11,apartment,|Argentina|Capital Federal|Villa Urquiza|,115881.63,28.0,,1.0
+63862,2014-12-11,apartment,|Uruguay|Punta del Este|,588830.0,133.0,1.0,3.0
+63872,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,460000.0,269.0,,5.0
+63873,2014-12-11,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,220000.0,205.0,,
+63876,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Morón|,120000.0,56.0,5.0,3.0
+63878,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,45.0,,2.0
+63879,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,130000.0,90.0,,3.0
+63880,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+63881,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,135000.0,81.0,4.0,2.0
+63883,2014-12-11,apartment,|Argentina|Capital Federal|Chacarita|,115000.0,55.0,3.0,2.0
+63884,2014-12-11,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,227000.0,98.0,5.0,
+63885,2014-12-11,store,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,350000.0,88.0,,
+63886,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,270000.0,112.0,,3.0
+63889,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,45000.0,38.0,,1.0
+63890,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,47000.0,33.0,,1.0
+63893,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,56000.0,85.0,,2.0
+63900,2014-12-11,apartment,|Argentina|Capital Federal|San Cristobal|,52000.0,23.0,,1.0
+63901,2014-12-11,apartment,|Argentina|Capital Federal|Liniers|,56500.0,36.0,1.0,
+63902,2014-12-11,apartment,|Argentina|Capital Federal|Villa Ortuzar|,112000.0,45.0,1.0,3.0
+63903,2014-12-11,apartment,|Uruguay|Montevideo|,129000.0,70.0,,3.0
+63904,2014-12-11,apartment,|Argentina|Capital Federal|Almagro|,168000.0,96.0,,4.0
+63905,2014-12-11,apartment,|Argentina|Capital Federal|Almagro|,130000.0,82.0,,3.0
+63961,2014-12-11,apartment,|Argentina|Capital Federal|Palermo|,769000.0,260.0,,5.0
+63962,2014-12-11,apartment,|Argentina|Capital Federal|Palermo|,769000.0,260.0,,4.0
+63963,2014-12-11,apartment,|Argentina|Capital Federal|Belgrano|,769000.0,260.0,,4.0
+63983,2014-12-11,house,|Argentina|Buenos Aires Interior|Luján|Luján|,35115.64,1120.0,,
+63985,2014-12-11,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,110000.0,68.0,,3.0
+63988,2014-12-11,apartment,|Argentina|Capital Federal|Belgrano|,153000.0,78.0,,3.0
+63989,2014-12-12,apartment,|Argentina|Capital Federal|Almagro|,95000.0,77.0,,3.0
+63990,2014-12-12,apartment,|Argentina|Capital Federal|Belgrano|,110000.0,46.0,,2.0
+63991,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,65000.0,20.0,4.0,1.0
+63992,2014-12-12,apartment,|Argentina|Capital Federal|Barrio Norte|,85000.0,30.0,4.0,2.0
+63993,2014-12-12,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,125000.0,56.0,,
+63994,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,780000.0,371.0,,5.0
+63995,2014-12-12,apartment,|Argentina|Capital Federal|Belgrano|,280000.0,150.0,,
+63996,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Oeste|General Rodríguez|,350000.0,366.0,,
+63997,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,135000.0,93.0,,4.0
+63998,2014-12-12,apartment,|Argentina|Capital Federal|Villa Crespo|,135000.0,73.0,7.0,3.0
+63999,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,135000.0,73.0,7.0,3.0
+64000,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,225000.0,376.0,,6.0
+64001,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,137000.0,66.0,,3.0
+64002,2014-12-12,apartment,|Argentina|Capital Federal|Saavedra|,76000.0,38.0,1.0,
+64003,2014-12-12,apartment,|Argentina|Capital Federal|Saavedra|,86000.0,43.0,4.0,
+64004,2014-12-12,apartment,|Argentina|Capital Federal|Saavedra|,92000.0,51.0,1.0,
+64005,2014-12-12,apartment,|Argentina|Capital Federal|Saavedra|,94000.0,47.0,4.0,
+64006,2014-12-12,apartment,|Argentina|Capital Federal|Caballito|,152000.0,89.0,,3.0
+64007,2014-12-12,apartment,|Argentina|Capital Federal|Floresta|,46000.0,36.0,1.0,2.0
+64009,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,205000.0,112.0,,5.0
+64010,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,470000.0,445.0,,5.0
+64013,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,205000.0,112.0,,5.0
+64014,2014-12-12,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,750000.0,1362.0,,
+64015,2014-12-12,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,209000.0,68.0,,3.0
+64016,2014-12-12,store,|Argentina|Capital Federal|Paternal|,420000.0,159.0,,
+64017,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,140000.0,46.0,8.0,2.0
+64018,2014-12-12,store,|Argentina|Capital Federal|San Cristobal|,65000.0,44.0,,
+64019,2014-12-12,store,|Argentina|Capital Federal|Balvanera|,65000.0,44.0,,
+64020,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,140000.0,46.0,8.0,2.0
+64021,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,870000.0,376.0,,6.0
+64022,2014-12-12,apartment,|Argentina|Capital Federal|Villa Devoto|,99000.0,68.0,1.0,2.0
+64023,2014-12-12,apartment,|Argentina|Capital Federal|Recoleta|,870000.0,376.0,,6.0
+64024,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|Palermo Soho|,370000.0,162.0,3.0,3.0
+64025,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,370000.0,162.0,3.0,3.0
+64026,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,370000.0,162.0,3.0,3.0
+64027,2014-12-12,apartment,|Argentina|Capital Federal|Palermo|,370000.0,162.0,3.0,2.0
+64028,2014-12-12,apartment,|Argentina|Capital Federal|Recoleta|,115000.0,43.0,,
+64029,2014-12-12,apartment,|Argentina|Capital Federal|Barrio Norte|,115000.0,43.0,,
+64030,2014-12-12,store,|Argentina|Capital Federal|Caballito|,349000.0,332.0,,
+64031,2014-12-12,house,|Argentina|Capital Federal|Caballito|,349000.0,332.0,,5.0
+64032,2014-12-12,apartment,|Argentina|Capital Federal|Recoleta|,685000.0,234.0,6.0,6.0
+64033,2014-12-12,apartment,|Argentina|Capital Federal|Retiro|,685000.0,234.0,6.0,6.0
+64034,2014-12-12,apartment,|Argentina|Capital Federal|Barrio Norte|,685000.0,234.0,6.0,6.0
+64035,2014-12-12,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,89000.0,123.0,,3.0
+64036,2014-12-12,apartment,|Uruguay|Montevideo|,124000.0,65.0,,3.0
+64039,2014-12-12,house,|Argentina|Neuquén|Neuquén|,310188.21,225.0,,4.0
+64040,2014-12-12,house,|Argentina|Córdoba|Bialet Massé|,450000.0,1058.0,,4.0
+64057,2014-12-12,apartment,|Argentina|Capital Federal|Saavedra|,79000.0,48.0,,2.0
+64060,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,140000.0,50.0,,2.0
+64065,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,180000.0,104.0,,3.0
+64066,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,88000.0,45.0,,2.0
+64069,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,52000.0,30.0,,1.0
+64070,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,47.0,,1.0
+64071,2014-12-12,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,51500.0,25.0,,1.0
+64099,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,79900.0,210.0,,2.0
+64101,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,35000.0,800.0,,3.0
+64102,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71900.0,80.0,,4.0
+64107,2014-12-13,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Villa Ballester|,80000.0,52.0,,2.0
+64112,2014-12-13,apartment,|Argentina|Capital Federal|Palermo|,320000.0,120.0,,4.0
+64133,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,105346.94,805.0,,2.0
+64136,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,155000.0,100.0,,4.0
+64151,2014-12-13,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,65.0,,2.0
+64153,2014-12-13,house,|Argentina|Buenos Aires Interior|Pehuajó|Pehuajó|,95000.0,450.0,,5.0
+64158,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,150000.0,525.0,,4.0
+64159,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,49161.9,335.0,,2.0
+64160,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,75000.0,45.0,,2.0
+64175,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Miramar|,95000.0,175.0,,4.0
+64177,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,30000.0,450.0,,5.0
+64183,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,55000.0,375.0,,4.0
+64184,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,50000.0,247.0,,3.0
+64185,2014-12-13,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,200000.0,300.0,,4.0
+64186,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,300.0,,3.0
+64188,2014-12-13,apartment,|Argentina|Capital Federal|Belgrano|,150000.0,70.0,,3.0
+64189,2014-12-13,apartment,|Argentina|Capital Federal|Belgrano|,145000.0,70.0,,3.0
+64194,2014-12-13,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,40968.25,300.0,,3.0
+64195,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,50.0,,2.0
+64200,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,220000.0,87.0,,3.0
+64201,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,160000.0,65.0,,2.0
+64202,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,160000.0,62.0,,2.0
+64206,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,40000.0,28.0,,1.0
+64209,2014-12-13,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,44000.0,38.0,,1.0
+64222,2014-12-15,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|Maschwitz|,195000.0,1200.0,1.0,3.0
+64223,2014-12-15,house,|Argentina|Buenos Aires Interior|Berisso|Villa Nueva|,280000.0,1200.0,1.0,3.0
+64224,2014-12-15,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,1500000.0,4034.0,1.0,6.0
+64225,2014-12-15,apartment,|Argentina|Capital Federal|Palermo|,340000.0,107.0,,3.0
+64226,2014-12-15,apartment,|Argentina|Capital Federal|Recoleta|,340000.0,107.0,,3.0
+64229,2014-12-15,apartment,|Argentina|Capital Federal|Coghlan|,976253.0,37.0,,1.0
+64230,2014-12-15,apartment,|Argentina|Capital Federal|Coghlan|,1711060.0,65.0,,2.0
+64231,2014-12-15,apartment,|Argentina|Capital Federal|Coghlan|,3099187.0,126.0,,3.0
+64238,2014-12-15,apartment,|Argentina|Capital Federal|Recoleta|,340000.0,107.0,,2.0
+64239,2014-12-15,house,|Argentina|Capital Federal|,225000.0,200.0,,3.0
+64284,2014-12-16,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,45000.0,28.0,,1.0
+64286,2014-12-16,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,65000.0,40.0,,2.0
+64292,2014-12-16,apartment,|Argentina|Capital Federal|Flores|,32000.0,33.0,,2.0
+64293,2014-12-16,apartment,|Argentina|Capital Federal|Belgrano|,275000.0,101.0,14.0,3.0
+64294,2014-12-16,store,|Argentina|Capital Federal|Barrio Norte|,160000.0,12.0,,
+64296,2014-12-16,apartment,|Argentina|Capital Federal|Villa del Parque|,119000.0,95.0,,4.0
+64297,2014-12-16,house,|Argentina|Capital Federal|Villa del Parque|,119000.0,95.0,,4.0
+64298,2014-12-16,apartment,|Argentina|Capital Federal|Puerto Madero|,216000.0,59.0,8.0,2.0
+64299,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Sur|Quilmes|,350000.0,170.0,,
+64300,2014-12-16,apartment,|Argentina|Capital Federal|Saavedra|,100000.0,41.0,2.0,1.0
+64303,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,470000.0,320.0,,4.0
+64304,2014-12-16,apartment,|Argentina|Capital Federal|Flores|,88000.0,50.0,7.0,2.0
+64305,2014-12-16,apartment,|Argentina|Capital Federal|Flores|,48500.0,50.0,,3.0
+64306,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,257000.0,151.0,,5.0
+64307,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Munro|,63000.0,32.0,,1.0
+64308,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,300000.0,192.0,,5.0
+64309,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,135000.0,60.0,,3.0
+64310,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,100000.0,76.0,,3.0
+64311,2014-12-16,house,|Argentina|Santa Fe|Malabrigo|,93641.72,750.0,,3.0
+64312,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,150000.0,69.0,4.0,3.0
+64313,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,98000.0,57.0,1.0,2.0
+64314,2014-12-16,apartment,|Argentina|Capital Federal|Belgrano|,310000.0,155.0,3.0,
+64315,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,1550000.0,606.0,,5.0
+64316,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,145000.0,75.0,,3.0
+64317,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,135000.0,75.0,,3.0
+64318,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,135000.0,75.0,1.0,3.0
+64319,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,94000.0,57.0,4.0,2.0
+64320,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,94000.0,57.0,3.0,2.0
+64321,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,360000.0,220.0,,
+64322,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,255000.0,200.0,,
+64323,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,39900.0,42.0,,3.0
+64324,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,98000.0,57.0,3.0,2.0
+64325,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,340000.0,205.0,,
+64326,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,300000.0,185.0,,
+64327,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Munro|,88000.0,211.0,,3.0
+64328,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,90000.0,106.0,,3.0
+64329,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,295000.0,175.0,,5.0
+64330,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,208000.0,123.0,,4.0
+64331,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,295000.0,175.0,,5.0
+64332,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,118000.0,60.0,5.0,
+64333,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,285000.0,300.0,,6.0
+64334,2014-12-16,apartment,|Argentina|Capital Federal|Balvanera|,180000.0,96.0,5.0,
+64335,2014-12-16,apartment,|Argentina|Capital Federal|Once|,200000.0,160.0,1.0,
+64337,2014-12-16,house,|Argentina|Buenos Aires Interior|San Antonio de Areco|San Antonio de Areco|,260000.0,490.0,,7.0
+64338,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|El Palomar|,160000.0,400.0,,4.0
+64339,2014-12-16,apartment,|Argentina|Capital Federal|Once|,165000.0,73.0,6.0,3.0
+64340,2014-12-16,apartment,|Argentina|Capital Federal|Almagro|,79000.0,35.0,,1.0
+64341,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,175000.0,71.0,,3.0
+64342,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,245000.0,181.0,,
+64343,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|,220000.0,180.0,,
+64345,2014-12-16,apartment,|Argentina|Capital Federal|Belgrano|,340000.0,146.0,,3.0
+64346,2014-12-16,apartment,|Argentina|Capital Federal|Colegiales|,97000.0,52.0,5.0,2.0
+64347,2014-12-16,apartment,|Argentina|Capital Federal|Once|,70000.0,34.0,5.0,1.0
+64348,2014-12-16,apartment,|Argentina|Capital Federal|Mataderos|,69000.0,44.0,1.0,2.0
+64349,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudadela|,66000.0,85.0,1.0,3.0
+64350,2014-12-16,apartment,|Argentina|Capital Federal|Belgrano|,220000.0,105.0,,3.0
+64351,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,390000.0,210.0,,4.0
+64352,2014-12-16,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,175000.0,145.0,,4.0
+64354,2014-12-16,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|,35000.0,35.0,,1.0
+64361,2014-12-16,apartment,|Argentina|Capital Federal|Recoleta|,180000.0,85.0,,3.0
+64366,2014-12-16,store,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,190000.0,95.0,,4.0
+64388,2014-12-17,apartment,|Argentina|Capital Federal|Villa Urquiza|,110000.0,47.0,,2.0
+64389,2014-12-17,apartment,|Argentina|Capital Federal|Coghlan|,110000.0,47.0,,2.0
+64390,2014-12-17,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,115000.0,70.0,,3.0
+64391,2014-12-17,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,83000.0,57.0,,2.0
+64394,2014-12-17,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,72000.0,57.0,,2.0
+64395,2014-12-17,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,46820.86,219.0,,3.0
+64396,2014-12-17,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,85000.0,47.0,,2.0
+64398,2014-12-17,house,|Argentina|Capital Federal|Villa Real|,140000.0,130.0,,3.0
+64400,2014-12-17,apartment,|Argentina|Capital Federal|Caballito|,78000.0,37.0,2.0,2.0
+64403,2014-12-17,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,60000.0,39.0,,2.0
+64404,2014-12-17,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,620000.0,400.0,,
+64405,2014-12-17,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,170000.0,157.0,,
+64406,2014-12-17,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,339000.0,233.0,,
+64407,2014-12-17,apartment,|Argentina|Capital Federal|Once|,87000.0,50.0,7.0,2.0
+64408,2014-12-17,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,450000.0,290.0,,
+64409,2014-12-17,apartment,|Argentina|Capital Federal|Once|,95000.0,78.0,2.0,4.0
+64410,2014-12-17,apartment,|Argentina|Capital Federal|Recoleta|,360000.0,125.0,10.0,4.0
+64411,2014-12-17,apartment,|Argentina|Capital Federal|Abasto|,143000.0,96.0,1.0,
+64412,2014-12-17,apartment,|Argentina|Capital Federal|Once|,110000.0,66.0,11.0,3.0
+64413,2014-12-17,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,200000.0,112.0,,3.0
+64414,2014-12-17,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,200000.0,80.0,,
+64415,2014-12-17,house,|Argentina|Capital Federal|Mataderos|,160000.0,300.0,,3.0
+64436,2014-12-18,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudadela|,45000.0,36.0,1.0,2.0
+64437,2014-12-18,apartment,|Argentina|Capital Federal|Palermo|,195000.0,88.0,,3.0
+64438,2014-12-18,apartment,|Argentina|Capital Federal|Belgrano|,183000.0,68.0,,3.0
+64440,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Udaondo|,350000.0,245.0,,
+64441,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Udaondo|,72572.33,27.0,,2.0
+64442,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Udaondo|,86618.59,30.0,,2.0
+64443,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Udaondo|,79595.46,30.0,,2.0
+64462,2014-12-18,apartment,|Argentina|Misiones|Posadas|,122904.76,65.0,7.0,
+64463,2014-12-18,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Lomas de Zamora|Lomas de Zamora|,145000.0,115.0,,
+64464,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,269000.0,890.0,,3.0
+64465,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|,330000.0,230.0,,
+64466,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,255000.0,260.0,,4.0
+64467,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,215000.0,195.0,,4.0
+64468,2014-12-18,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,220000.0,82.0,5.0,3.0
+64469,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lomas de Zamora|Lomas de Zamora|,145000.0,115.0,,4.0
+64470,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,89000.0,39.0,,2.0
+64472,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,51900.0,27.0,,1.0
+64473,2014-12-18,house,|Argentina|Buenos Aires Costa Atlántica|Costa del Este|,170000.0,87.0,,4.0
+64474,2014-12-18,apartment,|Argentina|Capital Federal|Caballito|,110000.0,74.0,,3.0
+64475,2014-12-18,apartment,|Argentina|Capital Federal|Caballito|,125000.0,56.0,1.0,2.0
+64476,2014-12-18,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,120000.0,180.0,,
+64477,2014-12-18,apartment,|Argentina|Capital Federal|Abasto|,135000.0,70.0,6.0,3.0
+64478,2014-12-18,house,|Argentina|Córdoba|Córdoba|,257514.74,600.0,,
+64481,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,167000.0,80.0,,3.0
+64482,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,83000.0,47.0,,2.0
+64487,2014-12-18,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,85000.0,47.0,1.0,2.0
+64489,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,79000.0,54.0,,3.0
+64491,2014-12-18,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,215000.0,95.0,3.0,2.0
+64494,2014-12-18,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,70231.29,371.0,,
+64496,2014-12-18,house,|Argentina|Capital Federal|Chacarita|,170000.0,135.0,,
+64497,2014-12-18,apartment,|Argentina|Capital Federal|Barrio Norte|,340000.0,107.0,,2.0
+64498,2014-12-18,apartment,|Argentina|Capital Federal|Barrio Norte|,340000.0,107.0,,3.0
+64499,2014-12-18,apartment,|Argentina|Capital Federal|Palermo|,340000.0,107.0,,2.0
+64500,2014-12-18,apartment,|Argentina|Capital Federal|,42000.0,25.0,,1.0
+64501,2014-12-18,apartment,|Argentina|Capital Federal|Balvanera|,75000.0,51.0,,3.0
+64503,2014-12-18,apartment,|Argentina|Capital Federal|,50000.0,43.0,,2.0
+64504,2014-12-18,house,|Argentina|Capital Federal|,260000.0,357.0,,5.0
+64506,2014-12-18,apartment,|Argentina|Capital Federal|,98000.0,67.0,,3.0
+64507,2014-12-18,apartment,|Argentina|Capital Federal|Caballito|,140000.0,86.0,,3.0
+64508,2014-12-18,apartment,|Argentina|Capital Federal|San Nicolás|,72000.0,38.0,,1.0
+64509,2014-12-18,apartment,|Argentina|Capital Federal|Villa Urquiza|,65000.0,35.0,,
+64528,2014-12-18,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,52673.47,385.0,,3.0
+64534,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,115000.0,65.0,,3.0
+64539,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,60000.0,51.0,,3.0
+64540,2014-12-18,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,57000.0,62.0,,3.0
+64541,2014-12-18,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,76083.9,79.0,,3.0
+64546,2014-12-19,apartment,|Argentina|Capital Federal|Retiro|,315000.0,120.0,6.0,4.0
+64550,2014-12-19,apartment,|Argentina|Capital Federal|Recoleta|,315000.0,120.0,6.0,4.0
+64554,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,595000.0,376.0,,5.0
+64557,2014-12-19,apartment,|Argentina|Capital Federal|Saavedra|,92000.0,47.0,3.0,
+64559,2014-12-19,apartment,|Argentina|Capital Federal|Saavedra|,59900.0,60.0,,3.0
+64560,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,275000.0,137.0,4.0,3.0
+64561,2014-12-19,apartment,|Uruguay|Punta del Este|,650000.0,1050.0,,2.0
+64562,2014-12-19,apartment,|Uruguay|Punta del Este|,168000.0,80.0,,3.0
+64563,2014-12-19,apartment,|Uruguay|Punta del Este|,1450000.0,100.0,,4.0
+64564,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Avellaneda|Avellaneda|,75000.0,60.0,,3.0
+64566,2014-12-19,house,|Uruguay|Montevideo|,280000.0,180.0,,
+64567,2014-12-19,apartment,|Argentina|Capital Federal|,219900.0,68.0,,3.0
+64568,2014-12-19,apartment,|Argentina|Capital Federal|,12000.0,48.0,,2.0
+64570,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|San Bernardo|,115000.0,85.0,,3.0
+64571,2014-12-19,apartment,|Argentina|Capital Federal|Las Cañitas|,250000.0,71.0,10.0,3.0
+64572,2014-12-19,apartment,|Argentina|Capital Federal|Las Cañitas|,170000.0,66.0,3.0,2.0
+64573,2014-12-19,apartment,|Argentina|Capital Federal|Belgrano|,165000.0,68.0,10.0,3.0
+64574,2014-12-19,store,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,160000.0,318.0,,
+64576,2014-12-19,apartment,|Argentina|Capital Federal|Belgrano|,105000.0,39.0,7.0,1.0
+64578,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,83000.0,66.0,,2.0
+64579,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,110000.0,70.0,,3.0
+64581,2014-12-19,apartment,|Argentina|Capital Federal|Belgrano|,470000.0,198.0,,5.0
+64585,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,340000.0,340.0,,4.0
+64586,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,230000.0,90.0,6.0,3.0
+64587,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,135000.0,73.0,7.0,3.0
+64588,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,115000.0,55.0,5.0,3.0
+64589,2014-12-19,store,|Argentina|Capital Federal|Tribunales|,350000.0,306.0,,
+64590,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,167000.0,110.0,2.0,4.0
+64591,2014-12-19,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,150000.0,75.0,10.0,3.0
+64592,2014-12-19,apartment,|Argentina|Capital Federal|Caballito|,119000.0,82.0,5.0,3.0
+64593,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,99500.0,39.0,4.0,2.0
+64594,2014-12-19,apartment,|Argentina|Capital Federal|Villa General Mitre|,119000.0,82.0,5.0,3.0
+64595,2014-12-19,store,|Argentina|Capital Federal|Centro / Microcentro|,350000.0,306.0,,
+64596,2014-12-19,apartment,|Argentina|Capital Federal|Centro / Microcentro|,170000.0,90.0,2.0,
+64597,2014-12-19,apartment,|Argentina|Capital Federal|Recoleta|,195000.0,56.0,9.0,
+64598,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Munro|,154000.0,78.0,,
+64600,2014-12-19,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,70000.0,68.0,1.0,4.0
+64601,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|Paso del Rey|,65000.0,1200.0,,3.0
+64602,2014-12-19,house,|Argentina|Buenos Aires Interior|Coronel Suárez|Coronel Suárez|,56185.03,60.0,,4.0
+64605,2014-12-19,store,|Argentina|Capital Federal|Balvanera|,280000.0,123.0,,
+64606,2014-12-19,apartment,|Argentina|Córdoba|Córdoba|,316040.82,110.0,14.0,3.0
+64607,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Pilar del Lago|,350000.0,800.0,,
+64608,2014-12-19,apartment,|Argentina|Capital Federal|Almagro|,60000.0,30.0,,1.0
+64609,2014-12-19,apartment,|Argentina|Capital Federal|Almagro|,60000.0,30.0,,1.0
+64610,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Merlo|,113000.0,800.0,,4.0
+64611,2014-12-19,apartment,|Argentina|Córdoba|Córdoba|,175578.23,68.0,15.0,2.0
+64612,2014-12-19,apartment,|Argentina|Córdoba|Córdoba|,304335.61,108.0,14.0,3.0
+64613,2014-12-19,apartment,|Argentina|Córdoba|Córdoba|,280925.18,100.0,14.0,3.0
+64617,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,330000.0,618.0,,
+64619,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,230000.0,1530.0,,
+64624,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,108669.11,37.0,1.0,1.0
+64625,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|,560000.0,440.0,,
+64626,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,109766.83,37.0,2.0,1.0
+64627,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Valeria del Mar|,95000.0,132.0,,4.0
+64628,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,630000.0,360.0,,3.0
+64629,2014-12-19,house,|Argentina|Córdoba|La Población|,110000.0,100.0,,
+64630,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,922580.0,37.0,1.0,1.0
+64631,2014-12-19,apartment,|Argentina|Capital Federal|Villa Urquiza|,97000.0,57.0,1.0,2.0
+64632,2014-12-19,apartment,|Argentina|Capital Federal|Villa Urquiza|,98000.0,54.0,2.0,2.0
+64634,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,140000.0,120.0,,
+64636,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,62000.0,54.0,,1.0
+64637,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Sur|Presidente Perón|,160000.0,800.0,,4.0
+64638,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,50000.0,26.0,,1.0
+64639,2014-12-19,apartment,|Argentina|Capital Federal|Congreso|,186000.0,136.0,4.0,4.0
+64640,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,270000.0,205.0,,4.0
+64641,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,320000.0,210.0,,4.0
+64642,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Costa Esmeralda|,250000.0,170.0,,4.0
+64643,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,240000.0,183.0,,3.0
+64644,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,250000.0,150.0,,4.0
+64645,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,350000.0,230.0,,4.0
+64646,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Ostende|,90000.0,110.0,,3.0
+64648,2014-12-19,store,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,180000.0,75.0,,
+64649,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,310000.0,200.0,,4.0
+64650,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,290000.0,170.0,,4.0
+64653,2014-12-19,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,83000.0,41.0,1.0,2.0
+64655,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,100000.0,94.0,,4.0
+64657,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,350000.0,222.0,,4.0
+64658,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Costa Esmeralda|,230000.0,140.0,,4.0
+64659,2014-12-19,store,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,125000.0,85.0,,
+64660,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,400000.0,240.0,,4.0
+64661,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Ostende|,110000.0,90.0,,3.0
+64662,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lanús|Lanús Este|,200000.0,205.0,,4.0
+64663,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,280000.0,208.0,,
+64664,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,280000.0,213.0,,4.0
+64665,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Ostende|,65000.0,69.0,,2.0
+64666,2014-12-19,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,230000.0,93.0,1.0,3.0
+64669,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,68000.0,170.0,,3.0
+64670,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,339000.0,233.0,,
+64671,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,95000.0,74.0,,
+64672,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Sur|Quilmes|Ezpeleta|,140000.0,215.0,,3.0
+64673,2014-12-19,store,|Argentina|Capital Federal|Boca|,80000.0,210.0,,
+64685,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|,210000.0,787.0,,
+64686,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|,305000.0,245.0,,
+64687,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|,258000.0,750.0,,
+64688,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,63000.0,40.0,2.0,1.0
+64689,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,63000.0,36.0,10.0,1.0
+64690,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,62500.0,36.0,9.0,1.0
+64691,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,62000.0,36.0,8.0,1.0
+64692,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Villa Adelina|,440000.0,550.0,,
+64694,2014-12-19,store,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Villa Adelina|,180000.0,200.0,,
+64695,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Villa Adelina|,87000.0,300.0,,
+64696,2014-12-19,store,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Villa Adelina|,260000.0,447.0,,
+64697,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,210000.0,139.0,2.0,3.0
+64699,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,98000.0,50.0,2.0,3.0
+64700,2014-12-19,apartment,|Argentina|Capital Federal|Almagro|,90000.0,35.0,4.0,
+64701,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,125000.0,53.0,1.0,2.0
+64704,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,125000.0,53.0,1.0,2.0
+64705,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,146000.0,86.0,2.0,4.0
+64706,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,62000.0,32.0,5.0,1.0
+64707,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,55000.0,30.0,1.0,1.0
+64708,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,65000.0,80.0,1.0,2.0
+64709,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,125000.0,200.0,,5.0
+64710,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,130000.0,86.0,1.0,3.0
+64711,2014-12-19,store,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Martínez|,39000.0,11.0,,
+64712,2014-12-19,apartment,|Argentina|Capital Federal|Villa Luro|,141000.0,69.0,2.0,3.0
+64714,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|Avellaneda|Wilde|,85000.0,44.0,12.0,2.0
+64715,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,62000.0,41.0,6.0,2.0
+64716,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,150000.0,100.0,,3.0
+64717,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,200000.0,96.0,1.0,3.0
+64718,2014-12-19,house,|Argentina|Capital Federal|Villa Luro|,170000.0,866.0,,4.0
+64719,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,130000.0,125.0,,4.0
+64720,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,95000.0,47.0,12.0,2.0
+64721,2014-12-19,house,|Argentina|Capital Federal|Villa Luro|,260000.0,150.0,,4.0
+64722,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,89000.0,63.0,1.0,3.0
+64723,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,210000.0,139.0,3.0,3.0
+64724,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,130000.0,127.0,,5.0
+64728,2014-12-19,apartment,|Argentina|Capital Federal|Caballito|,139000.0,47.0,7.0,
+64729,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Oeste|,190000.0,150.0,,
+64730,2014-12-19,apartment,|Argentina|Capital Federal|Caballito|,185000.0,98.0,3.0,
+64731,2014-12-19,apartment,|Argentina|Capital Federal|Once|,135000.0,85.0,7.0,3.0
+64732,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,100000.0,73.0,,5.0
+64733,2014-12-19,apartment,|Argentina|Capital Federal|Caballito|,82000.0,52.0,8.0,
+64734,2014-12-19,apartment,|Argentina|Capital Federal|San Telmo|,72000.0,51.0,8.0,3.0
+64737,2014-12-19,apartment,|Argentina|Capital Federal|Villa Urquiza|,190000.0,66.0,,3.0
+64738,2014-12-19,apartment,|Argentina|Capital Federal|Saavedra|,140000.0,52.0,,2.0
+64739,2014-12-19,house,|Argentina|Córdoba|Córdoba|,81936.51,237.0,,3.0
+64740,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Villa Adelina|,200000.0,258.0,,
+64743,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,60000.0,28.0,6.0,1.0
+64744,2014-12-19,apartment,|Argentina|Capital Federal|Barrio Norte|,180000.0,130.0,6.0,6.0
+64745,2014-12-19,apartment,|Argentina|Capital Federal|Floresta|,125000.0,126.0,,4.0
+64748,2014-12-19,store,|Argentina|Capital Federal|Boca|,45000.0,45.0,,
+64750,2014-12-19,apartment,|Argentina|Capital Federal|Abasto|,70000.0,33.0,,
+64751,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,78424.94,35.0,3.0,1.0
+64752,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,103005.89,49.0,2.0,2.0
+64753,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,198000.0,118.0,4.0,4.0
+64754,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,225000.0,75.0,,3.0
+64755,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|,155000.0,58.0,3.0,3.0
+64756,2014-12-19,apartment,|Argentina|Capital Federal|Villa Crespo|,133000.0,52.0,,2.0
+64757,2014-12-19,apartment,|Argentina|Capital Federal|Once|,80000.0,47.0,9.0,2.0
+64760,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Chico|,155000.0,55.0,6.0,3.0
+64761,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,220000.0,107.0,,2.0
+64762,2014-12-19,apartment,|Argentina|Capital Federal|Saavedra|,147000.0,70.0,,3.0
+64763,2014-12-19,apartment,|Argentina|Capital Federal|Villa Urquiza|,97000.0,60.0,1.0,2.0
+64764,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|Beccar|,260000.0,139.0,,
+64765,2014-12-19,apartment,|Argentina|Capital Federal|Villa Urquiza|,95000.0,46.0,2.0,2.0
+64766,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,79000.0,72.0,,4.0
+64767,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,90000.0,75.0,1.0,3.0
+64769,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,192560.0,61.0,,2.0
+64772,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,69817.0,31.0,,1.0
+64773,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,125920.0,58.0,,2.0
+64774,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,123878.0,58.0,,2.0
+64775,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,187095.0,72.0,,3.0
+64776,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,241183.0,94.0,,3.0
+64777,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,240308.0,96.0,,3.0
+64778,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,206600.0,76.0,,3.0
+64779,2014-12-19,apartment,|Argentina|Córdoba|Villa Carlos Paz|,111199.55,47.0,,2.0
+64780,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,151631.0,58.0,,2.0
+64795,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,74501.0,32.0,,1.0
+64796,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,79165.0,33.0,,1.0
+64797,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,81341.0,35.0,,1.0
+64798,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,125000.0,70.0,,3.0
+64799,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Sur|La Plata|La Plata|,100664.85,79.0,,3.0
+64800,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,150000.0,310.0,,7.0
+64801,2014-12-19,store,|Argentina|Capital Federal|Boca|,180000.0,330.0,,7.0
+64802,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,140000.0,70.0,3.0,4.0
+64803,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,75000.0,55.0,2.0,2.0
+64805,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,70000.0,50.0,2.0,3.0
+64806,2014-12-19,house,|Argentina|Capital Federal|Boca|,320000.0,610.0,,6.0
+64807,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,61500.0,36.0,7.0,1.0
+64808,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,90000.0,62.0,1.0,3.0
+64809,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,118000.0,118.0,,2.0
+64810,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,134941.0,52.0,,2.0
+64811,2014-12-19,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,182025.0,72.0,,3.0
+64812,2014-12-19,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Tuyú|,300000.0,420.0,,3.0
+64813,2014-12-19,store,|Argentina|Capital Federal|Boca|,120000.0,200.0,,
+64814,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,120000.0,99.0,1.0,5.0
+64815,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,50000.0,35.0,1.0,2.0
+64816,2014-12-19,apartment,|Argentina|Capital Federal|Boedo|,100000.0,153.0,2.0,4.0
+64817,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|General Pacheco|,198000.0,1540.0,,3.0
+64824,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Lomas del Mirador|,50000.0,22.0,,2.0
+64826,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,70000.0,37.0,7.0,2.0
+64827,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,89700.0,59.0,9.0,3.0
+64828,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,120000.0,100.0,,3.0
+64829,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,70000.0,49.0,2.0,2.0
+64830,2014-12-19,house,|Argentina|Capital Federal|Barracas|,170000.0,140.0,,6.0
+64831,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Sáenz Peña|,110000.0,72.0,10.0,3.0
+64832,2014-12-19,apartment,|Argentina|Capital Federal|San Cristobal|,61000.0,36.0,6.0,1.0
+64833,2014-12-19,house,|Argentina|Capital Federal|Boca|,200000.0,234.0,,5.0
+64834,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,60000.0,52.0,,2.0
+64835,2014-12-19,apartment,|Argentina|Capital Federal|Constitución|,57000.0,42.0,5.0,2.0
+64836,2014-12-19,apartment,|Argentina|Capital Federal|,65000.0,89.0,,3.0
+64837,2014-12-19,apartment,|Argentina|Capital Federal|Flores|,195000.0,106.0,1.0,
+64838,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,110000.0,90.0,6.0,4.0
+64839,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,75000.0,53.0,,2.0
+64840,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,89000.0,63.0,8.0,3.0
+64842,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,129000.0,147.0,1.0,5.0
+64844,2014-12-19,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,170000.0,450.0,,
+64845,2014-12-19,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Malvinas Argentinas|Ingeniero Adolfo Sourdeaux|,29000.0,21.0,5.0,
+64846,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,85000.0,53.0,4.0,3.0
+64847,2014-12-19,apartment,|Argentina|Capital Federal|Boca|,68500.0,57.0,2.0,3.0
+64853,2014-12-19,apartment,|Argentina|Capital Federal|Villa Lugano|,58000.0,55.0,,2.0
+64854,2014-12-19,apartment,|Argentina|Capital Federal|Villa Lugano|,450000.0,50.0,,2.0
+64883,2014-12-20,apartment,|Argentina|Capital Federal|Nuñez|,145000.0,72.0,,3.0
+64884,2014-12-20,apartment,|Argentina|Capital Federal|Saavedra|,145000.0,72.0,,3.0
+64887,2014-12-20,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,38000.0,20.0,,1.0
+64896,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,94800.0,47.0,,1.0
+64897,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,93000.0,47.0,,1.0
+64898,2014-12-20,PH,|Argentina|Capital Federal|Congreso|,139000.0,117.0,,3.0
+64899,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,95100.0,47.0,,1.0
+64900,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,100800.0,47.0,,1.0
+64901,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,100100.0,47.0,,1.0
+64902,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,101200.0,47.0,,1.0
+64903,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,99200.0,47.0,,1.0
+64904,2014-12-20,apartment,|Argentina|Capital Federal|Almagro|,99200.0,47.0,,1.0
+64906,2014-12-20,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,45000.0,27.0,,2.0
+64907,2014-12-20,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,78.0,,3.0
+65457,2014-12-20,apartment,|Argentina|Capital Federal|Belgrano|,290000.0,153.0,1.0,4.0
+65458,2014-12-20,house,|Argentina|Bs.As. G.B.A. Zona Sur|Berazategui|,500000.0,260.0,,
+65459,2014-12-20,house,|Argentina|Bs.As. G.B.A. Zona Sur|Berazategui|,390000.0,253.0,,
+65460,2014-12-20,apartment,|Uruguay|Punta del Este|,780000.0,132.0,,4.0
+65461,2014-12-20,apartment,|Uruguay|Punta del Este|,260000.0,90.0,,3.0
+65462,2014-12-20,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,230000.0,260.0,,4.0
+65463,2014-12-20,apartment,|Argentina|Capital Federal|Congreso|,90000.0,53.0,3.0,2.0
+65464,2014-12-20,apartment,|Argentina|Capital Federal|Congreso|,90000.0,53.0,3.0,3.0
+65465,2014-12-20,apartment,|Argentina|Capital Federal|Once|,112000.0,78.0,1.0,4.0
+65467,2014-12-20,house,|Argentina|Capital Federal|Palermo|,170000.0,135.0,,
+65468,2014-12-20,apartment,|Argentina|Capital Federal|Nuñez|,525000.0,145.0,,4.0
+65469,2014-12-20,apartment,|Argentina|Capital Federal|Belgrano|,525000.0,145.0,,4.0
+65470,2014-12-20,apartment,|Argentina|Capital Federal|Villa del Parque|,122900.0,78.0,1.0,3.0
+65471,2014-12-20,apartment,|Argentina|Capital Federal|Palermo|,169000.0,122.0,8.0,
+65472,2014-12-20,apartment,|Argentina|Capital Federal|Palermo|,169000.0,122.0,8.0,
+65473,2014-12-20,apartment,|Argentina|Capital Federal|Liniers|,99000.0,58.0,2.0,2.0
+65474,2014-12-20,store,|Argentina|Capital Federal|Liniers|,415000.0,500.0,,
+65475,2014-12-20,apartment,|Argentina|Capital Federal|Belgrano|,2500000.0,450.0,,4.0
+65476,2014-12-20,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|,400000.0,400.0,,
+65477,2014-12-20,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,1705000.0,213.0,,4.0
+65478,2014-12-20,apartment,|Argentina|Capital Federal|Mataderos|,118500.0,61.0,7.0,2.0
+65479,2014-12-20,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudad Jardín Lomas del Palomar|,87000.0,62.0,,
+65480,2014-12-20,apartment,|Uruguay|Punta del Este|,210000.0,90.0,,3.0
+65481,2014-12-20,apartment,|Uruguay|Punta del Este|,180000.0,90.0,,3.0
+65482,2014-12-20,apartment,|Uruguay|Punta del Este|,21000.0,90.0,,3.0
+65483,2014-12-20,apartment,|Uruguay|Punta del Este|,495000.0,132.0,,4.0
+65484,2014-12-20,apartment,|Uruguay|Punta del Este|,340000.0,90.0,,3.0
+65485,2014-12-20,apartment,|Uruguay|Punta del Este|,299000.0,117.0,,5.0
+65486,2014-12-20,apartment,|Uruguay|Punta del Este|,115000.0,49.0,,2.0
+65487,2014-12-20,apartment,|Uruguay|Punta del Este|,280000.0,132.0,,4.0
+65488,2014-12-20,apartment,|Uruguay|Punta del Este|,395000.0,132.0,,4.0
+65489,2014-12-20,apartment,|Uruguay|Punta del Este|,247000.0,58.0,,3.0
+65490,2014-12-20,apartment,|Uruguay|Punta del Este|,500000.0,132.0,,4.0
+65491,2014-12-20,apartment,|Uruguay|Punta del Este|,1320000.0,132.0,,4.0
+65492,2014-12-20,apartment,|Uruguay|Punta del Este|,300000.0,90.0,,4.0
+65493,2014-12-20,apartment,|Uruguay|Punta del Este|,400000.0,132.0,,4.0
+65494,2014-12-20,apartment,|Uruguay|Punta del Este|,300000.0,130.0,,4.0
+65495,2014-12-20,apartment,|Uruguay|Punta del Este|,1100000.0,132.0,,4.0
+65496,2014-12-20,apartment,|Uruguay|Punta del Este|,460000.0,113.0,,4.0
+65497,2014-12-20,apartment,|Uruguay|Punta del Este|,580000.0,126.0,,4.0
+65498,2014-12-20,apartment,|Uruguay|Punta del Este|,550000.0,132.0,,4.0
+65499,2014-12-20,apartment,|Uruguay|Punta del Este|,260000.0,90.0,,3.0
+65500,2014-12-20,apartment,|Uruguay|Punta del Este|,440000.0,132.0,,4.0
+65501,2014-12-20,apartment,|Uruguay|Punta del Este|,249000.0,132.0,,4.0
+65502,2014-12-20,apartment,|Uruguay|Punta del Este|,163000.0,58.0,,3.0
+65503,2014-12-20,apartment,|Uruguay|Punta del Este|,375000.0,90.0,,3.0
+65504,2014-12-20,apartment,|Uruguay|Punta del Este|,175000.0,90.0,,3.0
+65505,2014-12-20,apartment,|Uruguay|Punta del Este|,580000.0,132.0,,4.0
+65506,2014-12-20,apartment,|Uruguay|Punta del Este|,260000.0,92.0,,3.0
+65507,2014-12-20,apartment,|Uruguay|Punta del Este|,395000.0,58.0,,3.0
+65508,2014-12-20,apartment,|Uruguay|Punta del Este|,370000.0,90.0,,3.0
+65509,2014-12-20,apartment,|Uruguay|Punta del Este|,135000.0,48.0,,3.0
+65510,2014-12-20,apartment,|Uruguay|Punta del Este|,650000.0,132.0,,4.0
+65511,2014-12-20,apartment,|Uruguay|Punta del Este|,270000.0,132.0,,4.0
+65512,2014-12-20,apartment,|Uruguay|Punta del Este|,124500.0,80.0,,3.0
+65513,2014-12-20,apartment,|Uruguay|Punta del Este|,107000.0,90.0,,3.0
+65514,2014-12-20,apartment,|Uruguay|Punta del Este|,220000.0,90.0,,3.0
+65515,2014-12-20,apartment,|Argentina|Capital Federal|Caballito|,88100.0,39.0,6.0,1.0
+65516,2014-12-20,apartment,|Argentina|Capital Federal|Mataderos|,226500.0,104.0,9.0,4.0
+65517,2014-12-20,apartment,|Argentina|Capital Federal|Belgrano|,2500000.0,450.0,,4.0
+65518,2014-12-20,apartment,|Argentina|Capital Federal|Belgrano|,2500000.0,450.0,,4.0
+65519,2014-12-20,apartment,|Argentina|Capital Federal|Caballito|,74500.0,50.0,1.0,2.0
+65520,2014-12-20,apartment,|Uruguay|Montevideo|,145000.0,80.0,,3.0
+65521,2014-12-20,house,|Uruguay|Montevideo|,25000.0,80.0,,3.0
+65531,2014-12-20,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,65000.0,39.0,,2.0
+65533,2014-12-20,house,|Argentina|Capital Federal|Flores|,230000.0,195.0,,5.0
+65534,2014-12-20,apartment,|Argentina|Capital Federal|Caballito|,160000.0,123.0,,4.0
+65535,2014-12-20,PH,|Argentina|Capital Federal|Flores|,149000.0,224.0,,4.0
+65536,2014-12-20,store,|Argentina|Capital Federal|Caballito|,33945.12,180.0,,4.0
+65537,2014-12-20,apartment,|Argentina|Capital Federal|Palermo|,70500.0,33.0,,2.0
+65560,2014-12-20,PH,|Argentina|Capital Federal|Parque Patricios|,135000.0,76.0,,2.0
+65561,2014-12-20,PH,|Argentina|Capital Federal|Parque Chacabuco|,75000.0,40.0,,1.0
+65762,2014-12-21,apartment,|Argentina|Capital Federal|Belgrano|,95000.0,45.0,11.0,1.0
+65763,2014-12-21,apartment,|Argentina|Capital Federal|Belgrano|,120000.0,46.0,,2.0
+65765,2014-12-21,apartment,|Argentina|Capital Federal|Belgrano|,75000.0,26.0,11.0,1.0
+65768,2014-12-21,house,|Argentina|Capital Federal|Parque Patricios|,165000.0,220.0,,4.0
+65769,2014-12-21,house,|Argentina|Capital Federal|Parque Patricios|,170000.0,200.0,,6.0
+65770,2014-12-21,PH,|Argentina|Capital Federal|Parque Patricios|,80000.0,64.0,,3.0
+65774,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,40.0,,2.0
+65775,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+65776,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78000.0,52.0,,3.0
+65779,2014-12-21,apartment,|Argentina|Chaco|Resistencia|,103005.89,67.0,,
+65780,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,40.0,,2.0
+65781,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,40000.0,23.0,,1.0
+65782,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,88000.0,44.0,,2.0
+65787,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,135000.0,72.0,,3.0
+65790,2014-12-21,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|El Palomar|,115000.0,224.0,,
+65792,2014-12-21,apartment,|Uruguay|Punta del Este|,162000.0,80.0,,3.0
+65793,2014-12-21,apartment,|Uruguay|Punta del Este|,190000.0,100.0,,3.0
+65797,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+65798,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,30.0,,2.0
+65799,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,39.0,,2.0
+65801,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,181899.05,60.0,,2.0
+65802,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,52500.0,38.0,,1.0
+65803,2014-12-21,apartment,|Argentina|Capital Federal|Caballito|,170000.0,68.0,3.0,3.0
+65804,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,57000.0,46.0,,2.0
+65806,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,55000.0,54.0,,3.0
+65808,2014-12-21,apartment,|Argentina|Capital Federal|Villa Urquiza|,147000.0,75.0,1.0,3.0
+65809,2014-12-21,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,170000.0,294.0,,4.0
+65811,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,43000.0,25.0,,1.0
+65812,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,128900.0,62.0,,3.0
+65813,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80900.0,44.0,,2.0
+65814,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78900.0,36.0,,1.0
+65815,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,65.0,,3.0
+65816,2014-12-21,apartment,|Argentina|Capital Federal|Almagro|,250000.0,109.0,7.0,4.0
+65817,2014-12-21,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,340000.0,2500.0,,5.0
+65818,2014-12-21,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,280000.0,220.0,,6.0
+65819,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,45000.0,65.0,,3.0
+65821,2014-12-21,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,250000.0,260.0,,5.0
+65822,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,40.0,,1.0
+65827,2014-12-21,apartment,|Argentina|Capital Federal|Almagro|,118000.0,50.0,8.0,1.0
+65828,2014-12-21,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,80000.0,55.0,2.0,3.0
+65829,2014-12-21,apartment,|Argentina|Capital Federal|San Cristobal|,66500.0,40.0,11.0,1.0
+65830,2014-12-21,apartment,|Argentina|Capital Federal|San Cristobal|,64500.0,40.0,7.0,1.0
+65831,2014-12-21,apartment,|Argentina|Capital Federal|San Cristobal|,65500.0,40.0,9.0,1.0
+65832,2014-12-21,apartment,|Argentina|Capital Federal|San Cristobal|,63500.0,36.0,11.0,1.0
+65834,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,40.0,,2.0
+65835,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,78900.0,44.0,,2.0
+65837,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,71000.0,65.0,,3.0
+65839,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,61500.0,33.0,,2.0
+65841,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,83000.0,60.0,,2.0
+65842,2014-12-21,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,70000.0,178.0,,4.0
+65843,2014-12-21,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,650000.0,800.0,,6.0
+65844,2014-12-21,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,1500000.0,3224.0,,10.0
+65845,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,215000.0,1000.0,,2.0
+65848,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,230000.0,365.0,,3.0
+65849,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,22.0,,1.0
+65850,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,67.0,,3.0
+65851,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,46000.0,25.0,,1.0
+65854,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,55000.0,26.0,,2.0
+65855,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,66000.0,46.0,,2.0
+65856,2014-12-21,apartment,|Argentina|Capital Federal|Caballito|,150000.0,60.0,4.0,3.0
+65857,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,68000.0,60.0,,3.0
+65858,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,52000.0,32.0,,1.0
+65859,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,80000.0,90.0,,5.0
+65860,2014-12-21,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,25000.0,20.0,,1.0
+65861,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,85000.0,45.0,,2.0
+65862,2014-12-21,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,42000.0,25.0,,1.0
+65865,2014-12-21,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,290000.0,680.0,,7.0
+65867,2014-12-21,apartment,|Argentina|Buenos Aires Interior|Bahía Blanca|,128757.37,80.0,,
+65868,2014-12-21,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,152167.8,383.0,,
+65871,2014-12-21,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|San Isidro|,220000.0,110.0,,
+65872,2014-12-21,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Olivos|,127000.0,53.0,3.0,1.0
+65889,2014-12-22,apartment,|Uruguay|Punta del Este|,420000.0,132.0,,4.0
+65890,2014-12-22,apartment,|Uruguay|Punta del Este|,230000.0,88.0,,3.0
+65891,2014-12-22,apartment,|Uruguay|Punta del Este|,1800000.0,132.0,,4.0
+65892,2014-12-22,apartment,|Uruguay|Punta del Este|,135000.0,50.0,,3.0
+65893,2014-12-22,apartment,|Uruguay|Punta del Este|,135000.0,58.0,,3.0
+65894,2014-12-22,apartment,|Uruguay|Punta del Este|,140000.0,58.0,,3.0
+65895,2014-12-22,apartment,|Uruguay|Punta del Este|,1500000.0,145.0,,5.0
+65896,2014-12-22,apartment,|Uruguay|Punta del Este|,135000.0,90.0,,3.0
+65897,2014-12-22,apartment,|Uruguay|Punta del Este|,62000.0,36.0,,2.0
+65898,2014-12-22,apartment,|Uruguay|Punta del Este|,330000.0,142.0,,4.0
+65899,2014-12-22,apartment,|Uruguay|Punta del Este|,120000.0,88.0,,3.0
+65900,2014-12-22,apartment,|Uruguay|Punta del Este|,220000.0,60.0,,3.0
+65901,2014-12-22,apartment,|Uruguay|Punta del Este|,255000.0,890.0,,3.0
+65902,2014-12-22,apartment,|Uruguay|Punta del Este|,180000.0,58.0,,3.0
+65903,2014-12-22,apartment,|Uruguay|Punta del Este|,159500.0,90.0,,3.0
+65904,2014-12-22,apartment,|Uruguay|Punta del Este|,300000.0,132.0,,4.0
+65905,2014-12-22,apartment,|Uruguay|Punta del Este|,285000.0,72.0,,3.0
+65906,2014-12-22,apartment,|Uruguay|Punta del Este|,112000.0,58.0,,3.0
+65907,2014-12-22,apartment,|Uruguay|Punta del Este|,98000.0,48.0,,3.0
+65908,2014-12-22,apartment,|Uruguay|Punta del Este|,130000.0,58.0,,3.0
+65909,2014-12-22,apartment,|Uruguay|Punta del Este|,395000.0,90.0,,3.0
+65910,2014-12-22,apartment,|Uruguay|Punta del Este|,220000.0,88.0,,3.0
+65911,2014-12-22,apartment,|Uruguay|Punta del Este|,130000.0,58.0,,3.0
+65912,2014-12-22,apartment,|Uruguay|Punta del Este|,140000.0,49.0,,3.0
+65913,2014-12-22,apartment,|Uruguay|Punta del Este|,300000.0,132.0,,4.0
+65914,2014-12-22,apartment,|Uruguay|Punta del Este|,160000.0,88.0,,3.0
+65915,2014-12-22,apartment,|Uruguay|Punta del Este|,320000.0,90.0,,3.0
+65916,2014-12-22,apartment,|Uruguay|Punta del Este|,310000.0,90.0,,3.0
+65917,2014-12-22,apartment,|Uruguay|Punta del Este|,280000.0,90.0,,3.0
+65918,2014-12-22,apartment,|Uruguay|Punta del Este|,340000.0,90.0,,3.0
+65919,2014-12-22,apartment,|Uruguay|Punta del Este|,390000.0,90.0,,3.0
+65920,2014-12-22,apartment,|Uruguay|Punta del Este|,3000000.0,420.0,,5.0
+65921,2014-12-22,house,|Uruguay|Punta del Este|,650000.0,278.0,,
+65924,2014-12-22,apartment,|Argentina|Capital Federal|Caballito|,90000.0,40.0,,2.0
+65925,2014-12-22,PH,|Argentina|Bs.As. G.B.A. Zona Norte|San Isidro|,98000.0,220.0,,2.0
+65927,2014-12-22,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|,67000.0,46.0,,1.0
+65928,2014-12-22,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|,78000.0,58.0,,1.0
+65929,2014-12-22,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|,81000.0,58.0,,1.0
+65936,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,75000.0,40.0,,2.0
+65937,2014-12-23,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,74000.0,98.0,,3.0
+65938,2014-12-23,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,64000.0,60.0,,3.0
+65940,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,120000.0,86.0,,3.0
+65942,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,50000.0,235.0,,3.0
+65944,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,23000.0,19.0,,1.0
+65948,2014-12-23,store,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,765000.0,440.0,,
+65949,2014-12-23,apartment,|Argentina|Capital Federal|Villa Luro|,95000.0,52.0,,2.0
+65952,2014-12-23,apartment,|Argentina|Capital Federal|Villa Crespo|,62500.0,35.0,5.0,
+65953,2014-12-23,apartment,|Argentina|Capital Federal|Liniers|,85000.0,45.0,3.0,2.0
+65954,2014-12-23,apartment,|Argentina|Capital Federal|Once|,315000.0,185.0,8.0,7.0
+65955,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|Jose Leon Suarez|,65000.0,90.0,,3.0
+65956,2014-12-23,apartment,|Uruguay|Punta del Este|,295000.0,90.0,,3.0
+65957,2014-12-23,apartment,|Uruguay|Punta del Este|,360000.0,132.0,,4.0
+65958,2014-12-23,apartment,|Uruguay|Punta del Este|,1870000.0,132.0,,4.0
+65959,2014-12-23,apartment,|Uruguay|Punta del Este|,1400000.0,212.0,,4.0
+65960,2014-12-23,apartment,|Uruguay|Punta del Este|,1100000.0,145.0,,4.0
+65961,2014-12-23,apartment,|Uruguay|Punta del Este|,2800000.0,140.0,,4.0
+65962,2014-12-23,apartment,|Uruguay|Punta del Este|,1200000.0,155.0,,4.0
+65963,2014-12-23,apartment,|Uruguay|Punta del Este|,1300000.0,190.0,,5.0
+65964,2014-12-23,apartment,|Uruguay|Punta del Este|,1500000.0,251.0,,
+65965,2014-12-23,apartment,|Uruguay|Punta del Este|,1180000.0,155.0,,4.0
+65966,2014-12-23,apartment,|Uruguay|Punta del Este|,1900000.0,145.0,,4.0
+65967,2014-12-23,apartment,|Uruguay|Punta del Este|,2350000.0,750.0,,5.0
+65968,2014-12-23,apartment,|Uruguay|Punta del Este|,1100000.0,280.0,,4.0
+65969,2014-12-23,apartment,|Uruguay|Punta del Este|,1200000.0,132.0,,4.0
+65970,2014-12-23,apartment,|Uruguay|Punta del Este|,1980000.0,152.0,,4.0
+65972,2014-12-23,apartment,|Uruguay|Punta del Este|,120000.0,37.0,,2.0
+65973,2014-12-23,house,|Uruguay|Montevideo|,260000.0,212.0,,4.0
+65975,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Villa Raffo|,112000.0,19.0,,
+65976,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Sur|Florencio Varela|Bosques|,80765.98,600.0,,
+65981,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,76000.0,47.0,,
+65983,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,105000.0,50.0,,
+65986,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,120000.0,76.0,,
+65988,2014-12-23,PH,|Argentina|Capital Federal|Villa Santa Rita|,150000.0,161.0,,
+65989,2014-12-23,store,|Argentina|Capital Federal|Balvanera|,260000.0,187.0,,
+65990,2014-12-23,house,|Argentina|Capital Federal|Almagro|,700000.0,568.0,,
+65991,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,135000.0,230.0,,
+65995,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,65000.0,45.0,,
+65996,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida Oeste|,82000.0,53.0,,
+65997,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,68000.0,43.0,,
+65998,2014-12-23,house,|Argentina|Capital Federal|,165000.0,76.0,,
+66000,2014-12-23,apartment,|Argentina|Capital Federal|Almagro|,74000.0,32.0,,
+66001,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|La Reja|,46820.86,1040.0,,
+66015,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,95000.0,48.0,,
+66016,2014-12-23,house,|Argentina|Córdoba|Punilla|,104176.42,1115.0,,
+66017,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,220000.0,900.0,,
+66018,2014-12-23,house,|Argentina|Córdoba|,210693.88,1000.0,,
+66019,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,220000.0,93.0,,
+66020,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,115000.0,62.0,,
+66021,2014-12-23,house,|Argentina|Capital Federal|Palermo|,560000.0,380.0,,
+66022,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|,490000.0,1687.0,,
+66023,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,100000.0,100.0,,
+66024,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,280000.0,600.0,,
+66025,2014-12-23,apartment,|Argentina|Capital Federal|Almagro|,190000.0,95.0,,
+66029,2014-12-23,apartment,|Argentina|Capital Federal|Flores|,95000.0,70.0,,
+66030,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Villa Rosa|,85000.0,51.0,,
+66032,2014-12-23,apartment,|Argentina|Capital Federal|San Telmo|,103800.0,54.0,,
+66038,2014-12-23,apartment,|Argentina|Capital Federal|Flores|,120000.0,69.0,,
+66042,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|,125000.0,50.0,,
+66050,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|Muñiz|,40000.0,27.0,,
+66051,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,85000.0,43.0,,
+66053,2014-12-23,house,|Argentina|Capital Federal|Villa Crespo|,385000.0,220.0,,
+66054,2014-12-23,apartment,|Argentina|Capital Federal|Recoleta|,80000.0,22.0,,
+66055,2014-12-23,store,|Argentina|Capital Federal|Congreso|,260000.0,260.0,,
+66068,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|,320000.0,1025.0,,
+66070,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Hurlingham|,147000.0,300.0,,
+66072,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Hurlingham|,298000.0,500.0,,
+66075,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|Muñiz|,120000.0,400.0,,
+66080,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|San Antonio De Padua|,85000.0,39.0,,
+66081,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Necochea|,90000.0,90.0,,
+66083,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,230000.0,243.0,,
+66086,2014-12-23,PH,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Florida|,250000.0,161.0,,
+66089,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,91300.68,300.0,,
+66090,2014-12-23,house,|Argentina|Córdoba|San Vicente|,99494.33,168.0,,
+66098,2014-12-23,house,|Argentina|Córdoba|,140462.59,377.0,,
+66100,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,62000.0,48.0,,
+66101,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Marcos Paz|,90000.0,1800.0,,
+66102,2014-12-23,apartment,|Argentina|Capital Federal|Caballito|,230000.0,95.0,,
+66103,2014-12-23,PH,|Argentina|Capital Federal|Parque Chacabuco|,75000.0,40.0,,
+66104,2014-12-23,PH,|Argentina|Capital Federal|Parque Patricios|,135000.0,80.0,,
+66106,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,97000.0,330.0,,
+66107,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|,120000.0,290.0,,
+66108,2014-12-23,house,|Argentina|Capital Federal|Monte Castro|,140000.0,87.0,,
+66109,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,130000.0,500.0,,
+66110,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,340000.0,2300.0,,
+66112,2014-12-23,apartment,|Argentina|Santa Fe|Rosario|,72572.33,53.0,,
+66115,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,53000.0,39.0,,
+66116,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|,47500.0,39.0,,
+66123,2014-12-23,apartment,|Argentina|Capital Federal|Caballito|,62000.0,36.0,,
+66126,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,63000.0,42.0,,
+66128,2014-12-23,apartment,|Argentina|Capital Federal|Belgrano|,120000.0,70.0,,
+66132,2014-12-23,house,|Argentina|Buenos Aires Interior|Campana|,22825.17,660.0,,
+66135,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,79900.0,260.0,,
+66138,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,50000.0,46.0,,
+66139,2014-12-23,apartment,|Argentina|Capital Federal|Caballito|,165000.0,84.0,,
+66141,2014-12-23,house,|Argentina|Córdoba|Punilla|,80765.98,92.0,,
+66142,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,140000.0,450.0,,
+66143,2014-12-23,apartment,|Argentina|Capital Federal|Palermo|Palermo Hollywood|,82000.0,30.0,,
+66144,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|Paso del Rey|,105346.94,450.0,,
+66145,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,260000.0,700.0,,
+66146,2014-12-23,house,|Argentina|Córdoba|Punilla|,161531.97,600.0,,
+66147,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,480000.0,1000.0,,
+66150,2014-12-23,apartment,|Argentina|Córdoba|Punilla|,58526.07,76.0,,
+66151,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lomas de Zamora|Temperley|,110000.0,382.0,,
+66152,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,85000.0,65.0,,
+66153,2014-12-23,house,|Argentina|Córdoba|Punilla|,275072.57,650.0,,
+66154,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Necochea|,76083.9,130.0,,
+66155,2014-12-23,apartment,|Argentina|Santa Fe|Rosario|,64378.68,54.0,,
+66160,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Monte Hermoso|,64378.68,70.0,,
+66167,2014-12-23,apartment,|Argentina|Santa Fe|Rosario|,56185.03,48.0,,
+66170,2014-12-23,apartment,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,100000.0,50.0,,
+66171,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Villa Rosa|,38000.0,35.0,,
+66173,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,360000.0,1600.0,,
+66174,2014-12-23,PH,|Argentina|Capital Federal|Villa Real|,92000.0,57.0,,
+66175,2014-12-23,PH,|Argentina|Capital Federal|Villa Real|,84000.0,43.0,,
+66176,2014-12-23,house,|Argentina|Capital Federal|Villa Pueyrredón|,300000.0,320.0,,
+66177,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,187283.45,290.0,,
+66178,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,330000.0,1100.0,,
+66181,2014-12-23,house,|Argentina|Salta|,80765.98,200.0,,
+66183,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,330000.0,1640.0,,
+66184,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,280000.0,1000.0,,
+66185,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,530000.0,220.0,,
+66186,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|,140000.0,343.0,,
+66189,2014-12-23,PH,|Argentina|Capital Federal|Villa Luro|,200000.0,428.0,,
+66192,2014-12-23,apartment,|Argentina|Capital Federal|Flores|,220000.0,133.0,,
+66193,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,800000.0,1000.0,,
+66194,2014-12-23,PH,|Argentina|Capital Federal|Flores|,128000.0,106.0,,
+66195,2014-12-23,house,|Argentina|Capital Federal|Villa Lugano|,110000.0,320.0,,
+66196,2014-12-23,apartment,|Argentina|Capital Federal|Flores|,125000.0,59.0,,
+66197,2014-12-23,PH,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|,80000.0,181.0,,
+66198,2014-12-23,house,|Argentina|La Pampa|Santa Rosa|,87789.11,425.0,,
+66199,2014-12-23,apartment,|Argentina|Santa Fe|Rosario|,67890.25,35.0,,
+66201,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,535000.0,1000.0,,
+66203,2014-12-23,apartment,|Argentina|Capital Federal|San Cristobal|,63000.0,35.0,,
+66205,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,230000.0,560.0,,
+66206,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|,150000.0,370.0,,
+66207,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,190000.0,400.0,,
+66208,2014-12-23,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,400000.0,900.0,,
+66210,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,310000.0,245.0,,
+66211,2014-12-23,apartment,|Argentina|Capital Federal|Palermo|,275000.0,85.0,,
+66214,2014-12-23,apartment,|Argentina|Capital Federal|Constitución|,84000.0,59.0,,
+66215,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,112000.0,1600.0,,
+66216,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Ariza|,150000.0,276.0,,
+66218,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,95000.0,210.0,,
+66221,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,245000.0,268.0,,
+66222,2014-12-23,house,|Argentina|Córdoba|Punilla|,269219.96,500.0,,
+66223,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,149000.0,195.0,,
+66225,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|,57000.0,300.0,,
+66226,2014-12-23,PH,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|Paso del Rey|,40968.25,70.0,,
+66228,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,97000.0,44.0,,
+66230,2014-12-23,house,|Argentina|Córdoba|Punilla|,225000.0,1500.0,,
+66231,2014-12-23,house,|Argentina|Córdoba|Punilla|,235000.0,80.0,,
+66233,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ramos Mejía|,130000.0,251.0,,
+66235,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,90000.0,52.0,,
+66236,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|La Reja|,75000.0,1100.0,,
+66237,2014-12-23,apartment,|Argentina|Capital Federal|Balvanera|,70000.0,36.0,,
+66242,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,44479.82,110.0,,
+66243,2014-12-23,apartment,|Argentina|Capital Federal|Almagro|,160946.71,33.0,,
+66244,2014-12-23,store,|Argentina|Bs.As. G.B.A. Zona Norte|,76083.9,150.0,,
+66245,2014-12-23,apartment,|Argentina|Capital Federal|Congreso|,62000.0,32.0,,
+66250,2014-12-23,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Miguel|,72000.0,52.0,,
+66255,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Moreno|Paso del Rey|,40968.25,450.0,,
+66257,2014-12-23,apartment,|Argentina|Capital Federal|Palermo|,165000.0,86.0,,
+66259,2014-12-23,house,|Argentina|Capital Federal|Velez Sarsfield|,255000.0,200.0,,
+66260,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Norte|Malvinas Argentinas|Los Polvorines|,107102.72,278.0,,
+66264,2014-12-23,apartment,|Argentina|Buenos Aires Interior|General Alvarado|,60000.0,40.0,,
+66265,2014-12-23,apartment,|Argentina|Capital Federal|Villa Luro|,93000.0,65.0,,
+66342,2014-12-23,house,|Argentina|Bs.As. G.B.A. Zona Sur|Lomas de Zamora|Banfield|,45000.0,60.0,,3.0
+66343,2014-12-23,apartment,|Argentina|Santa Fe|Rosario|,104761.68,34.0,,
+66345,2014-12-23,apartment,|Argentina|Capital Federal|San Telmo|,84100.0,42.0,,
+66347,2014-12-23,store,|Argentina|Capital Federal|Villa Devoto|,55000.0,25.0,,
+66366,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,51.0,,2.0
+66367,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,53.0,,2.0
+66368,2014-12-24,apartment,|Argentina|Chaco|Resistencia|,46820.86,28.0,,
+66370,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,59900.0,27.0,,1.0
+66371,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,51.0,,2.0
+66372,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,51.0,,3.0
+66373,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,40000.0,23.0,,1.0
+66375,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,53000.0,25.0,,1.0
+66376,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,48000.0,46.0,,1.0
+66377,2014-12-24,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,119.0,,3.0
+66378,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,77000.0,49.0,,2.0
+66380,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,51.0,,2.0
+66383,2014-12-24,house,|Argentina|Buenos Aires Interior|Bahía Blanca|,125000.0,633.0,,
+66384,2014-12-24,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,68000.0,140.0,,3.0
+66385,2014-12-24,PH,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,90000.0,160.0,,4.0
+66444,2014-12-24,apartment,|Argentina|Capital Federal|Palermo|,132000.0,45.0,,2.0
+66445,2014-12-24,apartment,|Argentina|Capital Federal|Belgrano|,690000.0,172.0,,
+66448,2014-12-24,apartment,|Argentina|Capital Federal|Flores|,59000.0,30.0,2.0,1.0
+66449,2014-12-24,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,75000.0,55.0,,
+66450,2014-12-24,house,|Argentina|Buenos Aires Interior|Lobos|Lobos|,120000.0,130.0,,3.0
+66451,2014-12-24,apartment,|Argentina|Capital Federal|Balvanera|,155000.0,68.0,7.0,3.0
+66452,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Ciudad Evita|,135000.0,219.0,,4.0
+66453,2014-12-24,apartment,|Argentina|Capital Federal|Flores|,110000.0,82.0,,3.0
+66454,2014-12-24,apartment,|Argentina|Capital Federal|Balvanera|,250000.0,112.0,2.0,4.0
+66455,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,490000.0,461.0,,6.0
+66456,2014-12-24,apartment,|Argentina|Capital Federal|Recoleta|,330000.0,120.0,,
+66457,2014-12-24,apartment,|Uruguay|Punta del Este|,265000.0,90.0,,3.0
+66458,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,680000.0,471.0,,
+66462,2014-12-24,apartment,|Argentina|Capital Federal|Retiro|,50000.0,22.0,,
+66466,2014-12-24,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,95000.0,40.0,,2.0
+66469,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Sur|Berazategui|El Pato|,89000.0,95.0,,4.0
+66470,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,150000.0,250.0,,5.0
+66471,2014-12-24,apartment,|Argentina|Capital Federal|Balvanera|,138000.0,95.0,,4.0
+66472,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Vicente López|,450000.0,500.0,,5.0
+66473,2014-12-24,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,205000.0,65.0,,2.0
+66474,2014-12-24,house,|Argentina|Bs.As. G.B.A. Zona Sur|Berazategui|El Pato|,79000.0,180.0,,1.0
+66476,2014-12-25,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,83000.0,53.0,,
+66477,2014-12-25,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudad Jardín Lomas del Palomar|,115000.0,310.0,1.0,
+66479,2014-12-25,apartment,|Argentina|Capital Federal|Villa Pueyrredón|,89000.0,55.0,,2.0
+66506,2014-12-26,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Hurlingham|,85000.0,233.0,,
+66513,2014-12-26,apartment,|Argentina|Capital Federal|Congreso|,78000.0,44.0,,
+66514,2014-12-26,apartment,|Argentina|Capital Federal|Congreso|,88000.0,52.0,,
+66515,2014-12-26,apartment,|Argentina|Capital Federal|Barrio Norte|,263000.0,185.0,,
+66517,2014-12-26,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,119000.0,51.0,,2.0
+66520,2014-12-27,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,120000.0,350.0,,4.0
+66521,2014-12-27,house,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Nordelta|,199000.0,134.0,,4.0
+66522,2014-12-27,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|Ciudad Jardín Lomas del Palomar|,150000.0,130.0,,4.0
+66523,2014-12-27,apartment,|Argentina|Capital Federal|Caballito|,105000.0,58.0,,3.0
+66524,2014-12-27,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,95000.0,410.0,,
+66525,2014-12-27,house,|Argentina|Córdoba|Villa del Totoral|,64378.68,393.0,,
+66528,2014-12-27,store,|Argentina|Bs.As. G.B.A. Zona Oeste|Morón|Castelar|,110000.0,32.0,,
+66529,2014-12-27,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,135000.0,68.0,,3.0
+66531,2014-12-27,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|,149000.0,400.0,,2.0
+66532,2014-12-27,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,3500000.0,120.0,,2.0
+66534,2014-12-27,apartment,|Argentina|Capital Federal|Villa Urquiza|,249000.0,101.0,,
+66535,2014-12-27,apartment,|Argentina|Capital Federal|Villa Urquiza|,122850.0,55.0,,
+66536,2014-12-27,apartment,|Argentina|Capital Federal|Villa Urquiza|,280000.0,120.0,,
+66537,2014-12-27,PH,|Argentina|Capital Federal|Villa Urquiza|,109000.0,80.0,,
+66538,2014-12-27,PH,|Argentina|Capital Federal|Villa del Parque|,135500.0,65.0,,
+66557,2014-12-28,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,84500.0,68.0,,3.0
+66561,2014-12-28,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,60900.0,30.0,,1.0
+66562,2014-12-28,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,159500.0,66.0,,2.0
+66563,2014-12-28,house,|Argentina|Buenos Aires Interior|Luján|Open Door|,60000.0,306.0,,
+66565,2014-12-28,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Munro|,145000.0,294.0,,5.0
+66566,2014-12-28,PH,|Argentina|Capital Federal|Villa del Parque|,89500.0,63.0,,
+66567,2014-12-28,PH,|Argentina|Capital Federal|Villa del Parque|,82500.0,41.0,,
+66572,2014-12-28,apartment,|Argentina|Capital Federal|Villa Urquiza|,185000.0,76.0,,
+66573,2014-12-28,apartment,|Argentina|Capital Federal|San Cristobal|,16972.56,135.0,,
+66574,2014-12-28,PH,|Argentina|Capital Federal|Villa Urquiza|,195000.0,109.0,,
+66576,2014-12-29,apartment,|Argentina|Capital Federal|Belgrano|,105000.0,46.0,,3.0
+66577,2014-12-29,apartment,|Argentina|Capital Federal|Belgrano|,170000.0,75.0,,3.0
+66578,2014-12-29,apartment,|Argentina|Capital Federal|Belgrano|,128000.0,48.0,,1.0
+66580,2014-12-29,house,|Argentina|Capital Federal|Caballito|,285000.0,239.0,,5.0
+66581,2014-12-29,house,|Argentina|Capital Federal|,400000.0,259.0,,5.0
+66582,2014-12-29,house,|Argentina|Capital Federal|Flores|,580000.0,424.0,,3.0
+66583,2014-12-29,apartment,|Argentina|Capital Federal|,80000.0,46.0,,1.0
+66584,2014-12-29,store,|Argentina|Capital Federal|San Nicolás|,270000.0,180.0,,1.0
+66585,2014-12-29,apartment,|Argentina|Capital Federal|Belgrano|,83000.0,31.0,,1.0
+66586,2014-12-29,apartment,|Argentina|Capital Federal|Villa Urquiza|,75000.0,45.0,,2.0
+66587,2014-12-29,house,|Argentina|Capital Federal|Almagro|,200000.0,110.0,,2.0
+66588,2014-12-29,apartment,|Argentina|Capital Federal|Belgrano|,120000.0,62.0,,3.0
+66589,2014-12-29,house,|Argentina|Capital Federal|Villa Pueyrredón|,150000.0,236.0,,1.0
+66590,2014-12-29,apartment,|Argentina|Capital Federal|Once|,83000.0,48.0,,2.0
+66591,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,240000.0,220.0,,
+66592,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,300000.0,160.0,,
+66593,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,450000.0,650.0,,5.0
+66594,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Merlo|Libertad|,58000.0,300.0,,
+66595,2014-12-29,house,|Argentina|Buenos Aires Interior|Lobos|,280000.0,3000.0,,
+66600,2014-12-29,apartment,|Argentina|Capital Federal|,120000.0,79.0,,4.0
+66601,2014-12-29,apartment,|Argentina|Capital Federal|,150000.0,88.0,,4.0
+66602,2014-12-29,apartment,|Argentina|Capital Federal|San Telmo|,120000.0,46.0,,2.0
+66603,2014-12-29,apartment,|Argentina|Capital Federal|Almagro|,70000.0,38.0,,2.0
+66605,2014-12-29,apartment,|Argentina|Capital Federal|,70000.0,30.0,,1.0
+66607,2014-12-29,apartment,|Argentina|Capital Federal|Villa Crespo|,85000.0,63.0,,3.0
+66608,2014-12-29,apartment,|Argentina|Capital Federal|,140000.0,97.0,,4.0
+66609,2014-12-29,apartment,|Argentina|Capital Federal|Barracas|,105000.0,46.0,,2.0
+66610,2014-12-29,apartment,|Argentina|Capital Federal|,65000.0,49.0,,3.0
+66611,2014-12-29,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,93000.0,60.0,,
+66612,2014-12-29,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|Villa Luzuriaga|,70000.0,40.0,,
+66613,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|Maschwitz|,130000.0,160.0,,
+66614,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|Maschwitz|,70000.0,775.0,,
+66621,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|,130000.0,223.0,,3.0
+66622,2014-12-29,house,|Argentina|Bs.As. G.B.A. Zona Norte|Escobar|,70000.0,775.0,,
+66623,2014-12-29,apartment,|Argentina|Buenos Aires Costa Atlántica|,35000.0,32.0,,1.0
+66652,2014-12-29,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,60000.0,105.0,,2.0
+66653,2014-12-29,house,|Argentina|Buenos Aires Costa Atlántica|Mar del Plata|,140000.0,450.0,,3.0
+66659,2014-12-30,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Ituzaingó|,180000.0,177.0,,
+66661,2014-12-30,apartment,|Argentina|Buenos Aires Costa Atlántica|Mar de las Pampas|,150000.0,50.0,,
+66662,2014-12-30,house,|Argentina|Bs.As. G.B.A. Zona Oeste|Ituzaingó|Villa Udaondo|,215000.0,178.0,,
+66663,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,119115.2,50.0,3.0,2.0
+66664,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,116865.46,50.0,2.0,2.0
+66665,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,119559.88,50.0,3.0,2.0
+66666,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,124225.34,50.0,5.0,2.0
+66667,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,121399.94,50.0,4.0,2.0
+66668,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,213420.14,72.0,2.0,3.0
+66669,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,121870.84,50.0,4.0,2.0
+66670,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,115077.6,50.0,1.0,2.0
+66671,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,117301.36,50.0,2.0,2.0
+66672,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|San Fernando|San Fernando|,102668.55,44.0,1.0,2.0
+66673,2014-12-30,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|La Lucila|,150000.0,89.0,,1.0
+66674,2014-12-30,apartment,|Argentina|Capital Federal|Palermo|,119000.0,54.0,,
+66675,2014-12-30,house,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|San Justo|,320000.0,170.0,,4.0
+66676,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|La Lucila|,150000.0,89.0,,2.0
+66677,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,199310.56,63.0,6.0,2.0
+66678,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|Tigre|Tigre|,203016.66,63.0,7.0,2.0
+67034,2014-12-30,house,|Argentina|Santa Fe|Rosario|,105000.0,270.0,,
+67041,2014-12-30,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|Tres de Febrero|,213000.0,42.0,,1.0
+67042,2014-12-30,apartment,|Argentina|Capital Federal|Palermo|,109000.0,70.0,,
+67044,2014-12-30,apartment,|Argentina|Capital Federal|Congreso|,62000.0,32.0,,
+67045,2014-12-30,apartment,|Argentina|Capital Federal|Congreso|,62000.0,32.0,,
+67046,2014-12-30,PH,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|San Martín|,50000.0,170.0,,
+67047,2014-12-30,apartment,|Argentina|Capital Federal|Palermo|,16855.51,49.0,,
+67083,2014-12-31,apartment,|Argentina|Capital Federal|Villa Luro|,78000.0,54.0,,1.0
+67084,2014-12-31,apartment,|Argentina|Capital Federal|Villa Luro|,74000.0,50.0,,1.0
+67085,2014-12-31,apartment,|Argentina|Capital Federal|Mataderos|,120000.0,77.0,1.0,2.0
+67086,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,125000.0,106.0,1.0,3.0
+67087,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,75000.0,46.0,,1.0
+67088,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,125000.0,106.0,1.0,3.0
+67089,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,62000.0,28.0,,1.0
+67090,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,125000.0,106.0,1.0,3.0
+67091,2014-12-31,apartment,|Argentina|Capital Federal|Palermo|,1522750.0,240.0,20.0,4.0
+67092,2014-12-31,house,|Argentina|Bs.As. G.B.A. Zona Sur|Quilmes|,330000.0,190.0,,
+67093,2014-12-31,apartment,|Argentina|Capital Federal|Las Cañitas|,1200000.0,240.0,14.0,5.0
+67094,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,62000.0,28.0,,1.0
+67095,2014-12-31,apartment,|Argentina|San Luis|San Luis|,150000.0,93.0,,3.0
+67097,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,75000.0,46.0,,1.0
+67099,2014-12-31,apartment,|Argentina|Capital Federal|Liniers|,125000.0,106.0,1.0,3.0
+67100,2014-12-31,house,|Argentina|Bs.As. G.B.A. Zona Norte|Pilar|Los Tres Coniles|,110000.0,97.0,,
+67101,2014-12-31,apartment,|Argentina|Capital Federal|Barracas|,135000.0,112.0,,5.0
+67102,2014-12-31,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,108000.0,62.0,,2.0
+67103,2014-12-31,apartment,|Argentina|Capital Federal|Villa Luro|,73000.0,38.0,,
+67104,2014-12-31,house,|Argentina|Bs.As. G.B.A. Zona Norte|Vicente López|Carapachay|,160000.0,225.0,,5.0
+67105,2014-12-31,apartment,|Argentina|Capital Federal|Floresta|,154000.0,170.0,,7.0
+67106,2014-12-31,house,|Argentina|Buenos Aires Interior|Azul|,93641.72,250.0,,
+67110,2014-12-31,apartment,|Argentina|Bs.As. G.B.A. Zona Oeste|La Matanza|,55000.0,59.0,,
+67111,2014-12-31,apartment,|Argentina|Bs.As. G.B.A. Zona Norte|General San Martín|,115000.0,95.0,,3.0
+67114,2014-12-31,apartment,|Uruguay|Maldonado|,105000.0,40.0,,1.0
+67115,2014-12-31,house,|Argentina|Buenos Aires Costa Atlántica|Las Toninas|,57000.0,800.0,,3.0
+67122,2014-12-31,house,|Argentina|Buenos Aires Costa Atlántica|Las Toninas|,40000.0,60.0,,3.0
+67135,2014-12-31,house,|Argentina|Buenos Aires Costa Atlántica|Las Toninas|,65000.0,50.0,,3.0
+67136,2014-12-31,house,|Argentina|Buenos Aires Costa Atlántica|Las Toninas|,60000.0,110.0,,2.0
+67152,2014-12-31,house,|Argentina|Buenos Aires Costa Atlántica|Pinamar|,110000.0,598.0,,
+67153,2014-12-31,PH,|Argentina|Capital Federal|Boedo|,137000.0,79.0,,
+67163,2014-12-31,apartment,|Argentina|Capital Federal|Nuñez|,228000.0,197.0,,5.0
+67164,2014-12-31,apartment,|Argentina|Capital Federal|Palermo|,110000.0,42.0,,2.0
+67165,2014-12-31,apartment,|Argentina|Capital Federal|Nuñez|,298000.0,125.0,,4.0
+67166,2014-12-31,apartment,|Argentina|Capital Federal|Balvanera|,120000.0,65.0,,3.0
+67167,2014-12-31,house,|Argentina|Capital Federal|Nuñez|,430000.0,360.0,,6.0
+67168,2014-12-31,PH,|Argentina|Capital Federal|Palermo|,156000.0,86.0,,2.0
+67169,2014-12-31,store,|Argentina|Capital Federal|Belgrano|,550000.0,80.0,,1.0
+67170,2014-12-31,PH,|Argentina|Capital Federal|Nuñez|,65000.0,49.0,,2.0
+67171,2014-12-31,apartment,|Argentina|Capital Federal|Las Cañitas|,270000.0,118.0,,4.0
+67172,2014-12-31,house,|Argentina|Capital Federal|Barracas|,220000.0,280.0,,5.0
+67173,2014-12-31,house,|Argentina|Córdoba|Río Ceballos|,134000.0,1650.0,,6.0
+67174,2014-12-31,apartment,|Argentina|Capital Federal|Colegiales|,116000.0,47.0,,2.0
+67175,2014-12-31,apartment,|Argentina|Capital Federal|Colegiales|,116000.0,47.0,,2.0
+67176,2014-12-31,apartment,|Argentina|Capital Federal|Belgrano|,169000.0,82.0,,4.0
+67177,2014-12-31,apartment,|Argentina|Capital Federal|Colegiales|,155000.0,47.0,,3.0
+67178,2014-12-31,apartment,|Argentina|Capital Federal|Villa Crespo|,255000.0,117.0,,4.0
+67179,2014-12-31,apartment,|Argentina|Capital Federal|Caballito|,255000.0,95.0,,4.0
+67180,2014-12-31,apartment,|Argentina|Capital Federal|Palermo|Palermo Soho|,120000.0,41.0,,2.0
